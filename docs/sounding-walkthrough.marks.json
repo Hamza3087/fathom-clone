@@ -1,0 +1,295 @@
+[
+ {
+  "t": 1790801366.899,
+  "kind": "card",
+  "text": "Product walkthrough Sounding: an AI meeting notetaker, built like Fathom Record \u2192 speaker-labelled transcript \u2192 notes, action items, clips and search. For one person, and for a team. Open models on one GPU: Parakeet (speech), Sortformer + TitaNet (who spoke), Qwen (notes) The capture layer is stubbed on purpose: you upload the recording instead of a bot joining the call Seeded with real recorded meetings, including hour-long calls with 8\u20139 people",
+  "video_t": 0.37
+ },
+ {
+  "t": 1790801375.901,
+  "kind": "card-off",
+  "text": "",
+  "video_t": 9.37
+ },
+ {
+  "t": 1790801376.503,
+  "kind": "caption",
+  "step": 1,
+  "chapter": "Getting in",
+  "text": "Anyone can open the live app. Reviewers get in with one click, with no account to create.",
+  "fast": false,
+  "video_t": 9.97
+ },
+ {
+  "t": 1790801380.713,
+  "kind": "caption",
+  "step": 2,
+  "chapter": "My calls",
+  "text": "The meetings list. Every title, meeting type, summary line and action-item count was produced by the pipeline from real recordings.",
+  "fast": false,
+  "video_t": 14.18
+ },
+ {
+  "t": 1790801395.356,
+  "kind": "caption",
+  "step": 3,
+  "chapter": "The hard case: 1 hour, 8 people",
+  "text": "The case that matters: a real hour-long research meeting with eight people (ICSI corpus).",
+  "fast": false,
+  "video_t": 28.83
+ },
+ {
+  "t": 1790801398.657,
+  "kind": "caption",
+  "step": 3,
+  "chapter": "The hard case: 1 hour, 8 people",
+  "text": "The first speaker model could only track 4 people. I measured against human labels and added voice-embedding clustering: speaker mix-ups fell from ~20% to ~6%.",
+  "fast": false,
+  "video_t": 32.13
+ },
+ {
+  "t": 1790801409.941,
+  "kind": "caption",
+  "step": 3,
+  "chapter": "The hard case: 1 hour, 8 people",
+  "text": "Press play and the transcript follows. Click any line to jump the recording to that moment.",
+  "fast": false,
+  "video_t": 43.41
+ },
+ {
+  "t": 1790801420.423,
+  "kind": "caption",
+  "step": 4,
+  "chapter": "Notes you can check",
+  "text": "The notes. An hour is too long to read, so every point links to the moment it came from. Invented timestamps are thrown away.",
+  "fast": false,
+  "video_t": 53.89
+ },
+ {
+  "t": 1790801429.826,
+  "kind": "caption",
+  "step": 5,
+  "chapter": "Templates and action items",
+  "text": "Switch the template and the notes are rewritten for that kind of meeting: here, a sales discovery (SPICED) layout.",
+  "fast": false,
+  "video_t": 63.3
+ },
+ {
+  "t": 1790801432.973,
+  "kind": "caption",
+  "step": 5,
+  "chapter": "Templates and action items",
+  "text": "While Qwen rewrites the notes in the background, the action items: each one has the speaker, the moment, and an owner you can assign.",
+  "fast": false,
+  "video_t": 66.44
+ },
+ {
+  "t": 1790801436.562,
+  "kind": "caption",
+  "step": 5,
+  "chapter": "Templates and action items",
+  "text": "Assigning someone sends them a notification with a link to the moment.",
+  "fast": false,
+  "video_t": 70.03
+ },
+ {
+  "t": 1790801440.063,
+  "kind": "caption",
+  "step": 6,
+  "chapter": "Ask about this meeting",
+  "text": "Ask a question about this meeting. The answer cites the moments it used.",
+  "fast": false,
+  "video_t": 73.53
+ },
+ {
+  "t": 1790801445.355,
+  "kind": "caption",
+  "step": 6,
+  "chapter": "Ask about this meeting",
+  "text": "Qwen reads the whole hour-long transcript (32k-token context)\u2026",
+  "fast": true,
+  "video_t": 78.82
+ },
+ {
+  "t": 1790801455.451,
+  "kind": "caption",
+  "step": 6,
+  "chapter": "Ask about this meeting",
+  "text": "Timestamps in the answer are buttons that jump the recording there.",
+  "fast": false,
+  "video_t": 80.86
+ },
+ {
+  "t": 1790801461.239,
+  "kind": "caption",
+  "step": 7,
+  "chapter": "Highlight a moment",
+  "text": "Hear something worth keeping? Highlight saves the last 20 seconds and the next 10, because by the time you react, the moment has passed.",
+  "fast": false,
+  "video_t": 86.64
+ },
+ {
+  "t": 1790801469.152,
+  "kind": "caption",
+  "step": 7,
+  "chapter": "Highlight a moment",
+  "text": "You can also clip any range from the transcript: line menu \u2192 \"Clip from here\" \u2192 \"End clip here\".",
+  "fast": false,
+  "video_t": 94.56
+ },
+ {
+  "t": 1790801475.536,
+  "kind": "caption",
+  "step": 7,
+  "chapter": "Highlight a moment",
+  "text": "Share the clip with someone who was not on the call: one public link, for that clip only.",
+  "fast": false,
+  "video_t": 100.94
+ },
+ {
+  "t": 1790801480.157,
+  "kind": "caption",
+  "step": 8,
+  "chapter": "Shared clip, no account needed",
+  "text": "To prove it, log out completely\u2026",
+  "fast": false,
+  "video_t": 105.56
+ },
+ {
+  "t": 1790801484.567,
+  "kind": "caption",
+  "step": 8,
+  "chapter": "Shared clip, no account needed",
+  "text": "\u2026and open the link. The clip plays with its own transcript. The rest of the recording is not exposed.",
+  "fast": false,
+  "video_t": 109.97
+ },
+ {
+  "t": 1790801495.122,
+  "kind": "caption",
+  "step": 9,
+  "chapter": "Across all meetings",
+  "text": "Search runs across every transcript and every set of notes you can see, and results open at the exact moment.",
+  "fast": false,
+  "video_t": 120.53
+ },
+ {
+  "t": 1790801503.416,
+  "kind": "caption",
+  "step": 9,
+  "chapter": "Across all meetings",
+  "text": "Ask Sounding answers across all your calls, citing the meeting and the moment.",
+  "fast": false,
+  "video_t": 128.82
+ },
+ {
+  "t": 1790801508.094,
+  "kind": "caption",
+  "step": 9,
+  "chapter": "Across all meetings",
+  "text": "Keyword retrieval (BM25) picks the relevant excerpts from 9 meetings, then Qwen answers\u2026",
+  "fast": true,
+  "video_t": 133.5
+ },
+ {
+  "t": 1790801515.932,
+  "kind": "caption",
+  "step": 9,
+  "chapter": "Across all meetings",
+  "text": "Each citation links to the meeting and the moment.",
+  "fast": false,
+  "video_t": 135.07
+ },
+ {
+  "t": 1790801522.218,
+  "kind": "caption",
+  "step": 10,
+  "chapter": "Team intelligence",
+  "text": "Trackers flag moments across every call. Keyword trackers match words; AI trackers match meaning, so \"we need it by Friday\" counts as a deadline.",
+  "fast": false,
+  "video_t": 141.33
+ },
+ {
+  "t": 1790801536.786,
+  "kind": "caption",
+  "step": 10,
+  "chapter": "Team intelligence",
+  "text": "Coaching: talk time, questions and monologues per person, plus AI scorecards for each meeting type, with evidence.",
+  "fast": false,
+  "video_t": 155.89
+ },
+ {
+  "t": 1790801547.768,
+  "kind": "caption",
+  "step": 10,
+  "chapter": "Team intelligence",
+  "text": "Playlists collect clips across meetings. \"Play all\" runs them back to back, which is useful for onboarding or a decision review.",
+  "fast": false,
+  "video_t": 166.88
+ },
+ {
+  "t": 1790801558.264,
+  "kind": "caption",
+  "step": 10,
+  "chapter": "Team intelligence",
+  "text": "Companies are grouped from attendee email domains. Folders and sharing controls (private, team, organization, links) complete the team side.",
+  "fast": false,
+  "video_t": 177.37
+ },
+ {
+  "t": 1790801565.151,
+  "kind": "caption",
+  "step": 11,
+  "chapter": "Upload a recording",
+  "text": "New recordings come in by upload. This is the stub where Fathom's bot would join the call. The pipeline after it is the same.",
+  "fast": false,
+  "video_t": 184.26
+ },
+ {
+  "t": 1790801578.23,
+  "kind": "caption",
+  "step": 11,
+  "chapter": "Upload a recording",
+  "text": "Processing: preparing audio \u2192 finding speakers \u2192 transcribing \u2192 writing notes \u2192 running trackers.",
+  "fast": false,
+  "video_t": 197.34
+ },
+ {
+  "t": 1790801582.516,
+  "kind": "caption",
+  "step": 11,
+  "chapter": "Admin, while it processes",
+  "text": "Meanwhile, the admin side: teams and roles, invite links, meeting types (detected automatically), custom templates, scorecards and a transcription dictionary.",
+  "fast": false,
+  "video_t": 201.62
+ },
+ {
+  "t": 1790801601.616,
+  "kind": "caption",
+  "step": 11,
+  "chapter": "Admin, while it processes",
+  "text": "Back to the upload\u2026",
+  "fast": true,
+  "video_t": 220.72
+ },
+ {
+  "t": 1790801613.425,
+  "kind": "caption",
+  "step": 11,
+  "chapter": "Upload a recording",
+  "text": "Done. The meeting was titled, split by speaker, transcribed and summarised in about a minute.",
+  "fast": false,
+  "video_t": 223.11
+ },
+ {
+  "t": 1790801619.717,
+  "kind": "card",
+  "text": "What's built, and what I left out Built for the hour-long, eight-person call Built: transcripts, cited notes, templates, action items, clips and playlists, sharing and links, comments, search, Ask across calls, trackers, coaching, scorecards, teams and admin, API and webhooks Stubbed: calendar sync and the meeting bot (uploads go through the same pipeline) Left out: email, CRM sync, SSO. Next: a Google Meet bot, then live notes during the call Code and agent logs are in the repo \u00b7 live at http://5.9.117.80:3000",
+  "video_t": 229.37
+ },
+ {
+  "t": 1790801629.718,
+  "kind": "end",
+  "video_t": 239.38
+ }
+]

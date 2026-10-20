@@ -1,0 +1,10 @@
+[Unit]
+Description=Sounding: meeting pipeline API (127.0.0.1:8020)
+After=sounding-qwen.service
+[Service]
+WorkingDirectory=/root/sounding
+Environment=HF_HOME=/root/sounding/models/hf OMP_NUM_THREADS=8 PYTHONUNBUFFERED=1
+ExecStart=/root/venv/bin/python3 /root/sounding/scripts/server.py
+MemoryMax=24G
+Restart=on-failure
+RestartSec=10

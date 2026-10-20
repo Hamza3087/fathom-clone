@@ -1,0 +1,1154 @@
+[
+{
+"speaker": "speaker_0",
+"start": 14.24,
+"end": 14.96,
+"text": "Good morning."
+},
+{
+"speaker": "speaker_1",
+"start": 15.28,
+"end": 15.52,
+"text": "Good"
+},
+{
+"speaker": "speaker_0",
+"start": 15.52,
+"end": 16.0,
+"text": "morning."
+},
+{
+"speaker": "speaker_0",
+"start": 19.52,
+"end": 20.96,
+"text": "Everybody's setting on the right page."
+},
+{
+"speaker": "speaker_0",
+"start": 39.04,
+"end": 42.08,
+"text": "Anybody knows me? I'm Martin. Hello."
+},
+{
+"speaker": "speaker_1",
+"start": 43.12,
+"end": 43.68,
+"text": "I'm Richard."
+},
+{
+"speaker": "speaker_0",
+"start": 43.84,
+"end": 44.24,
+"text": "Martin."
+},
+{
+"speaker": "speaker_2",
+"start": 45.44,
+"end": 45.6,
+"text": "Yost."
+},
+{
+"speaker": "speaker_0",
+"start": 45.92,
+"end": 48.96,
+"text": "Martin. Welcome. Thank you."
+},
+{
+"speaker": "speaker_0",
+"start": 51.52,
+"end": 52.4,
+"text": "Let's see."
+},
+{
+"speaker": "speaker_0",
+"start": 54.24,
+"end": 55.2,
+"text": "Let's start off"
+},
+{
+"speaker": "speaker_0",
+"start": 56.72,
+"end": 58.4,
+"text": "with a little presentation."
+},
+{
+"speaker": "speaker_0",
+"start": 65.84,
+"end": 101.92,
+"text": "First, I'll tell you a little bit about the setting. You can see a few cameras here. They'll record our actions. And you all have wires and microphones. They will record your voice. There are also some microphones there. But you don't have to pay a lot of attention on those because it will disappear when you don't attend to it. So this is our project documents folder. There are some notes in it already, I see. Documents. I'll start with the presentation kickoff."
+},
+{
+"speaker": "speaker_0",
+"start": 106.72,
+"end": 110.72,
+"text": "It's being modified by the administrator. Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 116.8,
+"end": 139.04,
+"text": "Well, I don't know if you've noticed, but we're working for Real Reaction. It's a company in electronics. We put fashion in electronics, we make it work, we put a lot of effort in design and the product itself. I'm Bart Bloet, I'm the project manager, so I'll direct you through the project."
+},
+{
+"speaker": "speaker_0",
+"start": 140.56,
+"end": 148.16,
+"text": "This is our agenda. We have open reference tool training. Project plan discussion closing."
+},
+{
+"speaker": "speaker_0",
+"start": 150.0,
+"end": 155.36,
+"text": "Maybe I can sit down and I can take some notes. Or"
+},
+{
+"speaker": "speaker_0",
+"start": 157.52,
+"end": 158.16,
+"text": "let's see."
+},
+{
+"speaker": "speaker_0",
+"start": 161.28,
+"end": 162.88,
+"text": "Maybe you can take the minutes after"
+},
+{
+"speaker": "speaker_3",
+"start": 163.28,
+"end": 164.08,
+"text": "them. Sure."
+},
+{
+"speaker": "speaker_0",
+"start": 164.32,
+"end": 166.16,
+"text": "I don't know, it's not worth it. Just"
+},
+{
+"speaker": "speaker_3",
+"start": 166.96,
+"end": 170.56,
+"text": "if you have something like that, just write it back."
+},
+{
+"speaker": "speaker_0",
+"start": 171.92,
+"end": 182.24,
+"text": "As you can see, it's the opening. Quinton's tool trading. Aquintance is a point we've done a bit. Have you all seen the corporate website already?"
+},
+{
+"speaker": "speaker_0",
+"start": 184.32,
+"end": 188.48,
+"text": "Have you seen any flaws? I think I found one."
+},
+{
+"speaker": "speaker_0",
+"start": 196.08,
+"end": 197.44,
+"text": "See if it works, that's it."
+},
+{
+"speaker": "speaker_2",
+"start": 197.6,
+"end": 197.84,
+"text": "No,"
+},
+{
+"speaker": "speaker_1",
+"start": 198.08,
+"end": 198.24,
+"text": "it"
+},
+{
+"speaker": "speaker_0",
+"start": 198.24,
+"end": 199.04,
+"text": "doesn't work here."
+},
+{
+"speaker": "speaker_0",
+"start": 200.56,
+"end": 211.84,
+"text": "Okay. No problem. But um on the corporate information side there's the demos real remote instead of real reaction."
+},
+{
+"speaker": "speaker_2",
+"start": 212.16,
+"end": 212.88,
+"text": "Oh yeah. Real"
+},
+{
+"speaker": "speaker_0",
+"start": 212.96,
+"end": 215.6,
+"text": "remote is not really the company where we are, but"
+},
+{
+"speaker": "speaker_0",
+"start": 220.24,
+"end": 256.56,
+"text": "okay, what are we going to do? Our project aim is as you can see a new remote control that has the original trendy and user-friendly. So these are the points why we also hire G. We've got the marketing expert for the trendy and user-friendly loop. And the industrial designer that's also user-friendly in a bit original. And we've got our user interface designer."
+},
+{
+"speaker": "speaker_0",
+"start": 260.32,
+"end": 264.4,
+"text": "That's about the new remote control. Our project method"
+},
+{
+"speaker": "speaker_0",
+"start": 266.24,
+"end": 284.96,
+"text": "is there are three phases we're going through. First is functional design and I design the virtual work meetings. After the functional design, then conceptual design and the detailed design. I had some little indications"
+},
+{
+"speaker": "speaker_3",
+"start": 285.28,
+"end": 286.0,
+"text": "over here."
+},
+{
+"speaker": "speaker_0",
+"start": 288.24,
+"end": 326.48,
+"text": "But I think you know it already by yourself. The industrial designer is going to work on the working design, component design and a bit of the look and feel design. The user interface designer is going to do the technical function design, user interface concept and user interface design. And the marketing expert is doing a little bit of user requirements specification, trend watching and product evaluation. So that's a bit what you're going to do. But that will be all worked out"
+},
+{
+"speaker": "speaker_3",
+"start": 326.48,
+"end": 326.8,
+"text": "in"
+},
+{
+"speaker": "speaker_0",
+"start": 327.12,
+"end": 328.56,
+"text": "other meetings."
+},
+{
+"speaker": "speaker_0",
+"start": 332.08,
+"end": 334.56,
+"text": "Then we've got our first tool training."
+},
+{
+"speaker": "speaker_3",
+"start": 335.2,
+"end": 335.52,
+"text": "We're"
+},
+{
+"speaker": "speaker_0",
+"start": 335.52,
+"end": 347.92,
+"text": "going to work with a lot of high-tech tools here. So it's handy if we have a little bit of training first. As you can see we've got the smart boards here and here in the whiteboard."
+},
+{
+"speaker": "speaker_0",
+"start": 350.48,
+"end": 382.88,
+"text": "In the whiteboard here is a little toolbar on this side. Here are some functions you can save. These functions we don't have anything to do with. Only undo, you can undo a little piece of drawing. A blank new document for each person. Select a pen, razor, capture we don't have to do anything with. Then we've got our pen. This pen. It's really funny because you can draw with it on this page."
+},
+{
+"speaker": "speaker_0",
+"start": 384.72,
+"end": 385.36,
+"text": "In the"
+},
+{
+"speaker": "speaker_0",
+"start": 388.16,
+"end": 400.88,
+"text": "form of, you can also select the current colour and align with. But then first you have to select the pen function. We're going to work with it in a minute. Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 402.96,
+"end": 416.64,
+"text": "That's very simple and it's easy to draw your findings and drawings in there. Then a short thing about documents. We've got our shared folder,"
+},
+{
+"speaker": "speaker_0",
+"start": 419.44,
+"end": 427.92,
+"text": "project documents, I think. But you all found that already because there are a lot of documents in it already, so it will be okay."
+},
+{
+"speaker": "speaker_0",
+"start": 430.24,
+"end": 434.88,
+"text": "These are available on the smart boards as well. So if you have a document you want to show,"
+},
+{
+"speaker": "speaker_2",
+"start": 435.2,
+"end": 435.6,
+"text": "you can just"
+},
+{
+"speaker": "speaker_0",
+"start": 435.76,
+"end": 437.12,
+"text": "open it from the folder."
+},
+{
+"speaker": "speaker_0",
+"start": 439.36,
+"end": 450.0,
+"text": "Here is the simple toolbar. This is what I just said. Save, print, move back or forward one page. You can switch between the different colours."
+},
+{
+"speaker": "speaker_0",
+"start": 452.8,
+"end": 461.84000000000003,
+"text": "And then we're going to try out the whiteboard. So as you can see, we're going to draw the animal just to"
+},
+{
+"speaker": "speaker_0",
+"start": 464.16,
+"end": 465.76,
+"text": "get a bit familiar with it."
+},
+{
+"speaker": "speaker_0",
+"start": 467.68,
+"end": 469.12,
+"text": "The mouse but isn't running away."
+},
+{
+"speaker": "speaker_0",
+"start": 472.08,
+"end": 483.28000000000003,
+"text": "Is anybody playing with the mouse? Okay. We're going to draw the animal and just sum up a few of its favorite characteristics."
+},
+{
+"speaker": "speaker_0",
+"start": 485.52,
+"end": 491.92,
+"text": "The only thing we have to look after is that we use different colours and different line widths."
+},
+{
+"speaker": "speaker_0",
+"start": 493.76,
+"end": 495.52000000000004,
+"text": "I can start from there."
+},
+{
+"speaker": "speaker_0",
+"start": 497.76,
+"end": 505.2,
+"text": "You can use this pen by holding it like a little child, because if you hold it like this, the sensors will get blocked and"
+},
+{
+"speaker": "speaker_0",
+"start": 506.88,
+"end": 522.48,
+"text": "drawing won't get good. Another thing is you have to be a bit slow, because if you got me to draw it like really fast, then the pen won't hold up. So we choose format, current colour,"
+},
+{
+"speaker": "speaker_0",
+"start": 524.08,
+"end": 539.6800000000001,
+"text": "I think grey is appropriate. Then alignment. I think 7 will be nice. Now you'll see my drawing capabilities. These are not very good."
+},
+{
+"speaker": "speaker_0",
+"start": 544.32,
+"end": 546.16,
+"text": "Here you have to go real slow."
+},
+{
+"speaker": "speaker_1",
+"start": 569.84,
+"end": 570.32,
+"text": "Shark."
+},
+{
+"speaker": "speaker_0",
+"start": 571.2,
+"end": 573.76,
+"text": "Ah, he's trying to draw a doll thing."
+},
+{
+"speaker": "speaker_0",
+"start": 580.16,
+"end": 580.24,
+"text": "Yeah,"
+},
+{
+"speaker": "speaker_1",
+"start": 580.48,
+"end": 580.64,
+"text": "this is"
+},
+{
+"speaker": "speaker_0",
+"start": 581.04,
+"end": 581.6,
+"text": "a bit of a sort."
+},
+{
+"speaker": "speaker_0",
+"start": 586.48,
+"end": 589.12,
+"text": "Now we've got another function, you can erase it."
+},
+{
+"speaker": "speaker_0",
+"start": 590.64,
+"end": 592.0,
+"text": "And I can undo"
+},
+{
+"speaker": "speaker_0",
+"start": 593.6,
+"end": 595.76,
+"text": "this easily."
+},
+{
+"speaker": "speaker_0",
+"start": 599.2,
+"end": 603.52,
+"text": "I've got to write down a few of his characteristics."
+},
+{
+"speaker": "speaker_0",
+"start": 629.52,
+"end": 633.76,
+"text": "Okay. This is typically a do action, I think."
+},
+{
+"speaker": "speaker_0",
+"start": 639.76,
+"end": 641.36,
+"text": "Maybe you have to hold it a bit"
+},
+{
+"speaker": "speaker_0",
+"start": 643.04,
+"end": 652.64,
+"text": "upside down. I think that's it, because if you want to do this, then strike. I don't know, just try."
+},
+{
+"speaker": "speaker_0",
+"start": 658.4,
+"end": 659.28,
+"text": "It's not mine."
+},
+{
+"speaker": "speaker_0",
+"start": 689.36,
+"end": 690.0,
+"text": "I don't know."
+},
+{
+"speaker": "speaker_0",
+"start": 691.84,
+"end": 692.48,
+"text": "Lives with"
+},
+{
+"speaker": "speaker_0",
+"start": 700.32,
+"end": 704.16,
+"text": "my characteristic about the dog. Lives with food."
+},
+{
+"speaker": "speaker_1",
+"start": 704.88,
+"end": 704.96,
+"text": "So"
+},
+{
+"speaker": "speaker_0",
+"start": 705.36,
+"end": 707.6800000000001,
+"text": "now I'm gonna hand over Ben"
+},
+{
+"speaker": "speaker_0",
+"start": 709.68,
+"end": 711.52,
+"text": "Black sheet to you."
+},
+{
+"speaker": "speaker_0",
+"start": 724.72,
+"end": 726.08,
+"text": "And I'm gonna draw it like"
+},
+{
+"speaker": "speaker_0",
+"start": 732.16,
+"end": 736.16,
+"text": "okay. Not much analysis, but here we go."
+},
+{
+"speaker": "speaker_0",
+"start": 743.52,
+"end": 751.28,
+"text": "Maybe it's easier to draw with a smaller line width, I think, because this is going a little bit in idea."
+},
+{
+"speaker": "speaker_0",
+"start": 805.36,
+"end": 806.0,
+"text": "This is my"
+},
+{
+"speaker": "speaker_0",
+"start": 812.32,
+"end": 812.72,
+"text": "sheep."
+},
+{
+"speaker": "speaker_0",
+"start": 818.08,
+"end": 819.04,
+"text": "It's a nice"
+},
+{
+"speaker": "speaker_2",
+"start": 820.4,
+"end": 821.28,
+"text": "white doors."
+},
+{
+"speaker": "speaker_2",
+"start": 831.36,
+"end": 833.2,
+"text": "I always get sprayed on my butt."
+},
+{
+"speaker": "speaker_0",
+"start": 834.8,
+"end": 838.48,
+"text": "It's a real dashy recognition. Yeah, I"
+},
+{
+"speaker": "speaker_3",
+"start": 838.72,
+"end": 839.04,
+"text": "see."
+},
+{
+"speaker": "speaker_0",
+"start": 843.12,
+"end": 845.28,
+"text": "Maybe you can also write your name somewhere."
+},
+{
+"speaker": "speaker_3",
+"start": 845.84,
+"end": 846.16,
+"text": "Just"
+},
+{
+"speaker": "speaker_2",
+"start": 846.56,
+"end": 846.88,
+"text": "they are."
+},
+{
+"speaker": "speaker_2",
+"start": 881.52,
+"end": 884.72,
+"text": "And that's just a little bit so"
+},
+{
+"speaker": "speaker_2",
+"start": 888.8,
+"end": 888.96,
+"text": "fast."
+},
+{
+"speaker": "speaker_1",
+"start": 892.32,
+"end": 894.08,
+"text": "I'm just gonna drive it's uh yeah."
+},
+{
+"speaker": "speaker_3",
+"start": 970.0,
+"end": 970.8000000000001,
+"text": "Sweet."
+},
+{
+"speaker": "speaker_0",
+"start": 975.84,
+"end": 976.32,
+"text": "Garfield."
+},
+{
+"speaker": "speaker_0",
+"start": 993.2,
+"end": 993.44,
+"text": "Um"
+},
+{
+"speaker": "speaker_2",
+"start": 994.0,
+"end": 994.96,
+"text": "use a blank or"
+},
+{
+"speaker": "speaker_3",
+"start": 995.68,
+"end": 995.9200000000001,
+"text": "blank."
+},
+{
+"speaker": "speaker_2",
+"start": 1009.28,
+"end": 1011.28,
+"text": "I was gonna draw a cat too, so"
+},
+{
+"speaker": "speaker_2",
+"start": 1014.4,
+"end": 1015.76,
+"text": "let's try something else"
+},
+{
+"speaker": "speaker_2",
+"start": 1018.32,
+"end": 1020.48,
+"text": "something different than the guardian."
+},
+{
+"speaker": "speaker_1",
+"start": 1039.76,
+"end": 1041.04,
+"text": "Mine is a bit more skinny."
+},
+{
+"speaker": "speaker_3",
+"start": 1041.28,
+"end": 1042.72,
+"text": "Yeah, skinny cat."
+},
+{
+"speaker": "speaker_2",
+"start": 1045.52,
+"end": 1046.8,
+"text": "I don't know skin to skin."
+},
+{
+"speaker": "speaker_3",
+"start": 1048.4,
+"end": 1050.88,
+"text": "Is it your cat or did you find him on the street?"
+},
+{
+"speaker": "speaker_3",
+"start": 1056.96,
+"end": 1057.2,
+"text": "Well"
+},
+{
+"speaker": "speaker_1",
+"start": 1058.48,
+"end": 1060.96,
+"text": "it's supposed to be a cat. I like cats before some"
+},
+{
+"speaker": "speaker_1",
+"start": 1064.16,
+"end": 1064.48,
+"text": "they are"
+},
+{
+"speaker": "speaker_1",
+"start": 1067.44,
+"end": 1068.32,
+"text": "independent."
+},
+{
+"speaker": "speaker_0",
+"start": 1081.6,
+"end": 1081.84,
+"text": "Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 1084.32,
+"end": 1088.64,
+"text": "Okay. So everybody knows how the work the whiteboard now. So"
+},
+{
+"speaker": "speaker_2",
+"start": 1088.88,
+"end": 1089.04,
+"text": "if"
+},
+{
+"speaker": "speaker_0",
+"start": 1089.04,
+"end": 1094.48,
+"text": "you have any ideas or if you want to throw anything on the whiteboard, just ask and go ahead."
+},
+{
+"speaker": "speaker_0",
+"start": 1096.08,
+"end": 1096.96,
+"text": "Easy."
+},
+{
+"speaker": "speaker_0",
+"start": 1106.88,
+"end": 1109.68,
+"text": "So we've got the tool introduction."
+},
+{
+"speaker": "speaker_0",
+"start": 1111.2,
+"end": 1114.0,
+"text": "Move along to the project finance."
+},
+{
+"speaker": "speaker_0",
+"start": 1116.88,
+"end": 1147.2,
+"text": "As you can see, for a remote control, the selling price is 25 euros, our selling price. Our profit aim is 50 million Euros. That's the least we have to get from our remote controls. So we have to work together to reach our aims. We can do it international, so we have to focus on different kind of users, different kind of cultures and different kind of trends as well."
+},
+{
+"speaker": "speaker_0",
+"start": 1149.44,
+"end": 1153.76,
+"text": "But that's all in the later stadium. Our production cost"
+},
+{
+"speaker": "speaker_0",
+"start": 1155.28,
+"end": 1188.0,
+"text": "can be maximal 12.5 Euros. So that's also a point we have to keep in mind. We won't make remote controls with small televisions inside and stuff like that. It won't work. So just try to remember these points. Standard price 25, profit aims 50 million, but more important is the international market we're trying to focus on. And production cost maximum 12 and a half euros."
+},
+{
+"speaker": "speaker_0",
+"start": 1189.6,
+"end": 1198.48,
+"text": "So that leads us to our little discussion. We've got about five or ten minutes left for discussion. So"
+},
+{
+"speaker": "speaker_3",
+"start": 1198.8,
+"end": 1199.28,
+"text": "I'm"
+},
+{
+"speaker": "speaker_0",
+"start": 1199.28,
+"end": 1200.4,
+"text": "gonna sit down,"
+},
+{
+"speaker": "speaker_3",
+"start": 1200.48,
+"end": 1201.84,
+"text": "I think. It's easier."
+},
+{
+"speaker": "speaker_2",
+"start": 1202.0,
+"end": 1202.4,
+"text": "I'm gonna go."
+},
+{
+"speaker": "speaker_0",
+"start": 1204.32,
+"end": 1207.2,
+"text": "I've got a message. Five minutes. Okay,"
+},
+{
+"speaker": "speaker_1",
+"start": 1207.52,
+"end": 1207.6000000000001,
+"text": "so"
+},
+{
+"speaker": "speaker_0",
+"start": 1207.76,
+"end": 1210.16,
+"text": "that's a good time. So"
+},
+{
+"speaker": "speaker_2",
+"start": 1210.24,
+"end": 1210.96,
+"text": "just on a side"
+},
+{
+"speaker": "speaker_0",
+"start": 1210.96,
+"end": 1211.2,
+"text": "note,"
+},
+{
+"speaker": "speaker_2",
+"start": 1211.36,
+"end": 1214.32,
+"text": "why is it my laptop is only giving me a black screen?"
+},
+{
+"speaker": "speaker_0",
+"start": 1215.52,
+"end": 1217.6000000000001,
+"text": "Maybe you have to say the magic word."
+},
+{
+"speaker": "speaker_1",
+"start": 1218.8,
+"end": 1218.96,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_2",
+"start": 1219.52,
+"end": 1220.0,
+"text": "You're right."
+},
+{
+"speaker": "speaker_0",
+"start": 1220.96,
+"end": 1221.76,
+"text": "Does it do"
+},
+{
+"speaker": "speaker_3",
+"start": 1221.76,
+"end": 1222.4,
+"text": "anything?"
+},
+{
+"speaker": "speaker_2",
+"start": 1222.72,
+"end": 1223.04,
+"text": "No."
+},
+{
+"speaker": "speaker_0",
+"start": 1223.36,
+"end": 1225.6000000000001,
+"text": "Maybe you have to just clap it down"
+},
+{
+"speaker": "speaker_3",
+"start": 1228.4,
+"end": 1229.3600000000001,
+"text": "back up again?"
+},
+{
+"speaker": "speaker_3",
+"start": 1234.16,
+"end": 1235.84,
+"text": "Slatch. Hmm."
+},
+{
+"speaker": "speaker_2",
+"start": 1236.08,
+"end": 1236.72,
+"text": "It's off now."
+},
+{
+"speaker": "speaker_3",
+"start": 1237.28,
+"end": 1240.64,
+"text": "It's off. Wait, put it back on. Yeah. Okay. Well,"
+},
+{
+"speaker": "speaker_2",
+"start": 1240.72,
+"end": 1241.3600000000001,
+"text": "it was on."
+},
+{
+"speaker": "speaker_3",
+"start": 1244.16,
+"end": 1245.76,
+"text": "It's nice laptops."
+},
+{
+"speaker": "speaker_2",
+"start": 1247.44,
+"end": 1247.92,
+"text": "There we are."
+},
+{
+"speaker": "speaker_3",
+"start": 1249.28,
+"end": 1250.8,
+"text": "Okay. But some."
+},
+{
+"speaker": "speaker_0",
+"start": 1251.36,
+"end": 1263.92,
+"text": "Does everybody have um experiences with uh remote controls? And I mean not the ordinary remote controls but also a little bit different ones like you can use for other"
+},
+{
+"speaker": "speaker_2",
+"start": 1267.52,
+"end": 1284.48,
+"text": "well we have a kind of broad TV at home and a DVD player so we got like a lot of remote controls one for the T V, one for the video recorder, one for the DVD player. And I think it's it would be best to just make one remote control that can operate them all."
+},
+{
+"speaker": "speaker_0",
+"start": 1284.8,
+"end": 1306.08,
+"text": "Yeah, true. Yeah I've I've got one at home and you can uh program I think eight different devices in it and you can use it for your television and everything else. And it also operates on infrared so you have got a little device inside your room and then you can operate it from the third or"
+},
+{
+"speaker": "speaker_1",
+"start": 1306.8,
+"end": 1307.2,
+"text": "second"
+},
+{
+"speaker": "speaker_0",
+"start": 1307.2,
+"end": 1313.6000000000001,
+"text": "floor. So that's pretty handy when you have a video recorder or DVD player downstairs"
+},
+{
+"speaker": "speaker_1",
+"start": 1313.92,
+"end": 1314.0,
+"text": "and"
+},
+{
+"speaker": "speaker_0",
+"start": 1314.0,
+"end": 1316.4,
+"text": "you've got a link to your TV on the second floor."
+},
+{
+"speaker": "speaker_1",
+"start": 1317.12,
+"end": 1317.2,
+"text": "So"
+},
+{
+"speaker": "speaker_0",
+"start": 1317.28,
+"end": 1318.56,
+"text": "that's a pretty handy"
+},
+{
+"speaker": "speaker_0",
+"start": 1320.16,
+"end": 1320.4,
+"text": "thing"
+},
+{
+"speaker": "speaker_0",
+"start": 1323.36,
+"end": 1333.52,
+"text": "but only the I think that if you can put different kind of devices in one remote control it makes it a lot easier as well."
+},
+{
+"speaker": "speaker_0",
+"start": 1336.4,
+"end": 1338.96,
+"text": "It's good to remember. So I think you can take"
+},
+{
+"speaker": "speaker_2",
+"start": 1339.12,
+"end": 1339.6000000000001,
+"text": "minutes again."
+},
+{
+"speaker": "speaker_0",
+"start": 1340.08,
+"end": 1341.04,
+"text": "Yeah, it's nice."
+},
+{
+"speaker": "speaker_0",
+"start": 1342.72,
+"end": 1345.3600000000001,
+"text": "So we we want different functions"
+},
+{
+"speaker": "speaker_0",
+"start": 1349.12,
+"end": 1360.32,
+"text": "we can maybe see if we can do something with infrared but I don't know if that will exceed the production cost that's something we have to find out I think."
+},
+{
+"speaker": "speaker_2",
+"start": 1360.64,
+"end": 1364.08,
+"text": "Yeah. But that would be really good if we could do that."
+},
+{
+"speaker": "speaker_2",
+"start": 1366.0,
+"end": 1366.16,
+"text": "And"
+},
+{
+"speaker": "speaker_0",
+"start": 1366.96,
+"end": 1371.6000000000001,
+"text": "other functions for remote control? Maybe you can make it"
+},
+{
+"speaker": "speaker_2",
+"start": 1374.48,
+"end": 1376.16,
+"text": "has to be shockproof. Sure."
+},
+{
+"speaker": "speaker_1",
+"start": 1376.56,
+"end": 1376.8,
+"text": "Yes."
+},
+{
+"speaker": "speaker_2",
+"start": 1377.28,
+"end": 1382.0,
+"text": "Shock proof. My remote control tends to waterproof or so"
+},
+{
+"speaker": "speaker_1",
+"start": 1383.2,
+"end": 1384.8,
+"text": "no I would I mean"
+},
+{
+"speaker": "speaker_2",
+"start": 1386.8,
+"end": 1387.92,
+"text": "what I prove"
+},
+{
+"speaker": "speaker_0",
+"start": 1389.76,
+"end": 1394.08,
+"text": "okay so these are a few things we can think of."
+},
+{
+"speaker": "speaker_0",
+"start": 1396.24,
+"end": 1400.8,
+"text": "I will put the minutes from this meeting in our project folder."
+},
+{
+"speaker": "speaker_1",
+"start": 1401.52,
+"end": 1401.68,
+"text": "Yeah"
+},
+{
+"speaker": "speaker_2",
+"start": 1402.0,
+"end": 1410.64,
+"text": "one other little thing. I thought it might be handy to put a battery status display on so you can see battery status. Okay."
+},
+{
+"speaker": "speaker_1",
+"start": 1410.8,
+"end": 1411.04,
+"text": "How much"
+},
+{
+"speaker": "speaker_2",
+"start": 1411.04,
+"end": 1412.8,
+"text": "is left in the battery."
+},
+{
+"speaker": "speaker_2",
+"start": 1414.4,
+"end": 1418.16,
+"text": "But they will also really drag up the production cost so."
+},
+{
+"speaker": "speaker_0",
+"start": 1418.48,
+"end": 1419.2,
+"text": "Yeah. We'll have"
+},
+{
+"speaker": "speaker_2",
+"start": 1419.2,
+"end": 1420.16,
+"text": "to see about that too."
+},
+{
+"speaker": "speaker_2",
+"start": 1422.08,
+"end": 1424.64,
+"text": "But maybe just a little lab. I don't know."
+},
+{
+"speaker": "speaker_0",
+"start": 1425.6,
+"end": 1430.08,
+"text": "That's an idea as well. Other ideas? Quick ideas?"
+},
+{
+"speaker": "speaker_1",
+"start": 1431.36,
+"end": 1432.4,
+"text": "They were all mentioned, so"
+},
+{
+"speaker": "speaker_0",
+"start": 1433.28,
+"end": 1439.04,
+"text": "any questions about this uh presentation? Kickoff presentation? Um"
+},
+{
+"speaker": "speaker_0",
+"start": 1441.12,
+"end": 1441.2,
+"text": "I"
+},
+{
+"speaker": "speaker_2",
+"start": 1441.2,
+"end": 1442.08,
+"text": "don't think so."
+},
+{
+"speaker": "speaker_0",
+"start": 1442.4,
+"end": 1455.2,
+"text": "No? Okay, then I'll put the minutes from this meeting in the project folder and then we can all work finish meeting now. Okay. And"
+},
+{
+"speaker": "speaker_3",
+"start": 1455.36,
+"end": 1455.76,
+"text": "we can"
+},
+{
+"speaker": "speaker_0",
+"start": 1455.76,
+"end": 1459.2,
+"text": "all work on our own project."
+},
+{
+"speaker": "speaker_0",
+"start": 1468.16,
+"end": 1468.8,
+"text": "Okay, then"
+},
+{
+"speaker": "speaker_3",
+"start": 1468.96,
+"end": 1472.96,
+"text": "I'll meet you in about a half an hour."
+},
+{
+"speaker": "speaker_1",
+"start": 1474.16,
+"end": 1474.32,
+"text": "Okay."
+}
+]
