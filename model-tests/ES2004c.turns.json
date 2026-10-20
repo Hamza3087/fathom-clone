@@ -1,0 +1,2216 @@
+[
+{
+"speaker": "speaker_0",
+"start": 0.16,
+"end": 2.16,
+"text": "I wait for the next one."
+},
+{
+"speaker": "speaker_0",
+"start": 80.08,
+"end": 81.68,
+"text": "Welcome back, everybody."
+},
+{
+"speaker": "speaker_0",
+"start": 85.52,
+"end": 89.04,
+"text": "Right. This is our conceptual design meeting."
+},
+{
+"speaker": "speaker_0",
+"start": 91.44,
+"end": 95.84,
+"text": "I think we're slightly ahead of ourselves from the last meeting."
+},
+{
+"speaker": "speaker_2",
+"start": 96.16,
+"end": 96.32000000000001,
+"text": "Yeah,"
+},
+{
+"speaker": "speaker_0",
+"start": 96.96,
+"end": 98.88,
+"text": "I was asking the question as well. I think, yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 101.04,
+"end": 103.60000000000001,
+"text": "This is where we talk about"
+},
+{
+"speaker": "speaker_0",
+"start": 106.4,
+"end": 114.88,
+"text": "properties, materials, user interface, and trend watching. So I think we've touched on a few things"
+},
+{
+"speaker": "speaker_0",
+"start": 116.56,
+"end": 119.36,
+"text": "to do with that already, but we'll just go over it."
+},
+{
+"speaker": "speaker_0",
+"start": 122.88,
+"end": 136.16,
+"text": "The minutes from last time, we had a couple of changes in our plans in that we couldn't use teletext, it wasn't going to be control for everything,"
+},
+{
+"speaker": "speaker_0",
+"start": 138.08,
+"end": 142.32,
+"text": "and that we had to incorporate the image of the company into it somehow."
+},
+{
+"speaker": "speaker_0",
+"start": 144.72,
+"end": 147.12,
+"text": "We have decided on"
+},
+{
+"speaker": "speaker_0",
+"start": 148.88,
+"end": 155.84,
+"text": "leaving out the voice recognition. We've decided on there being a flip design and"
+},
+{
+"speaker": "speaker_0",
+"start": 157.44,
+"end": 164.72,
+"text": "a different shape from what's normal. We were thinking a shout out, but something along those lines, just a different shape from what's normal."
+},
+{
+"speaker": "speaker_0",
+"start": 168.96,
+"end": 172.08,
+"text": "You were going to look into the rechargeable batteries."
+},
+{
+"speaker": "speaker_2",
+"start": 172.4,
+"end": 172.72,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 173.36,
+"end": 179.12,
+"text": "And we were going to think about the port and an alarm for getting it lost and things like that."
+},
+{
+"speaker": "speaker_0",
+"start": 180.64,
+"end": 193.12,
+"text": "And our market was going to be young business kind of range. Okay, so shall we start with the first presentation? Yes, if you think about it."
+},
+{
+"speaker": "speaker_0",
+"start": 217.68,
+"end": 218.24,
+"text": "There we go."
+},
+{
+"speaker": "speaker_3",
+"start": 219.04,
+"end": 227.6,
+"text": "Okay, so we decided on our market, and so this feedback from the marketing department is really about trend watching."
+},
+{
+"speaker": "speaker_3",
+"start": 229.68,
+"end": 232.16,
+"text": "The methods we use to decide on"
+},
+{
+"speaker": "speaker_3",
+"start": 234.4,
+"end": 246.0,
+"text": "current trends and so on, market trends, were that we did our traditional, our usual market research study with our hundred subjects and the general feedback from them is that the most"
+},
+{
+"speaker": "speaker_3",
+"start": 247.52,
+"end": 249.52,
+"text": "I'm sorry, I'm slightly tongue-tied after lunch, sorry,"
+},
+{
+"speaker": "speaker_0",
+"start": 249.84,
+"end": 250.0,
+"text": "sorry,"
+},
+{
+"speaker": "speaker_3",
+"start": 251.36,
+"end": 268.8,
+"text": "we decided on the most important aspect required in a remote-control device, and we'll come to that later. So, that was one of the first things we did. Also, with our company being forerunners in putting fashion into technology, we also looked at a fashion update using our consultants on fashion and design in Paris and Milan."
+},
+{
+"speaker": "speaker_3",
+"start": 270.64,
+"end": 317.44,
+"text": "So, the general findings from that was that in the market trends, the most important aspects for remote controls were people want a fancy look and feel rather than the current functional look and feel of remote controls. They also want a remote control to be technologically innovative and, of course, as we predicted, that it should be easy to use. Now, I should point out that the first of those findings, fancy look and feel, is the most important. It's twice as important as the second, technologically innovative, which is in turn twice as important as being easy to use. So, possibly that the feature that we put first is actually third. It's still important, but it's third in order of preference for the subject group we looked at. Okay."
+},
+{
+"speaker": "speaker_3",
+"start": 319.6,
+"end": 356.64,
+"text": "There's a fashion update which relates to very personal preferences among our subject group. We found from our consultants in Paris and Milan, who attended all the design and fashion fairs then, that fruit and vegetables are going to be the theme for clothes, shoes, and furniture. So, should we be thinking of using something like that in our remote-controlled design too? There also seems to be a trend towards a spongy feel to materials, again in contrast to last year. So, a lot of interesting feedback there, both from our market research departments and from our people in Paris and Milan. It'll be interesting to see what our design people make of that."
+},
+{
+"speaker": "speaker_0",
+"start": 357.36,
+"end": 358.8,
+"text": "Okay, thank you very much."
+},
+{
+"speaker": "speaker_0",
+"start": 361.52,
+"end": 363.44,
+"text": "Let's start from the inside and work away out."
+},
+{
+"speaker": "speaker_3",
+"start": 365.6,
+"end": 367.2,
+"text": "Does anyone have any questions about that?"
+},
+{
+"speaker": "speaker_0",
+"start": 372.16,
+"end": 373.12,
+"text": "Yes, thank you."
+},
+{
+"speaker": "speaker_0",
+"start": 390.96,
+"end": 395.76,
+"text": "Especially if you do the multi-time, you can't get the leverage on them to undo the"
+},
+{
+"speaker": "speaker_2",
+"start": 414.56,
+"end": 423.6,
+"text": "design of the actual components and the availability of the components we have in stock at the moment. Okay, first,"
+},
+{
+"speaker": "speaker_2",
+"start": 426.16,
+"end": 451.12,
+"text": "into the method. The main idea of the whole thing is just so you just press buttons and it should activate things on the T V. And we discussed last meeting it should be easy to find. Also, in this study, I've looked into the availability of some of the materials because some of the things that we looked at last time unfortunately aren't available."
+},
+{
+"speaker": "speaker_2",
+"start": 453.36,
+"end": 500.40000000000003,
+"text": "Findings, I've got my nice little picture there. This is the chip called the TA11835, which is what's used in pretty much every remote control because it sends out standard signals based on your input. And it's pretty much used for all TV remotes at the moment. And then we were looking into battery options. There's actually no rechargeable option available, so I saw the standard AA and AAA, which we thought were a bit too bulky at the moment. Dynamo charging, I thought that might be a bit silly, to be honest. People, it's basically"
+},
+{
+"speaker": "speaker_0",
+"start": 500.4,
+"end": 500.72,
+"text": "like"
+},
+{
+"speaker": "speaker_2",
+"start": 500.72,
+"end": 501.6,
+"text": "wind-up radio."
+},
+{
+"speaker": "speaker_0",
+"start": 502.24,
+"end": 502.48,
+"text": "So, you"
+},
+{
+"speaker": "speaker_2",
+"start": 502.56,
+"end": 504.8,
+"text": "wind up your remote control before you use it."
+},
+{
+"speaker": "speaker_0",
+"start": 506.72,
+"end": 512.24,
+"text": "How long can you get out of that? I mean, can you pick it up and then wind it for two minutes and then that's it for the night?"
+},
+{
+"speaker": "speaker_2",
+"start": 512.88,
+"end": 531.28,
+"text": "Yeah, I presume you wouldn't have to wind it for very long, but I don't think it's really sort of necessary when you think of the next two options, like the sober charging, because most people have the light on in the room anyway, so they could get"
+},
+{
+"speaker": "speaker_0",
+"start": 532.64,
+"end": 532.88,
+"text": "too much."
+},
+{
+"speaker": "speaker_3",
+"start": 540.96,
+"end": 551.2,
+"text": "Regarding the sizes, which one do you think will be like, because we have to take into consideration size also, so maybe standard triple A might take lesser space, um dynamo might take more space?"
+},
+{
+"speaker": "speaker_2",
+"start": 551.44,
+"end": 551.52,
+"text": "Yeah,"
+},
+{
+"speaker": "speaker_3",
+"start": 551.6,
+"end": 551.92,
+"text": "it would."
+},
+{
+"speaker": "speaker_2",
+"start": 552.48,
+"end": 557.36,
+"text": "Yeah, the dynamo would take more space because you'd actually need a physical sort of handle to wind up. I'm"
+},
+{
+"speaker": "speaker_0",
+"start": 557.36,
+"end": 559.6800000000001,
+"text": "pretty sure the solar is from the sun."
+},
+{
+"speaker": "speaker_2",
+"start": 559.92,
+"end": 560.88,
+"text": "Yeah. I"
+},
+{
+"speaker": "speaker_0",
+"start": 560.88,
+"end": 562.64,
+"text": "don't think it counts electric"
+},
+{
+"speaker": "speaker_3",
+"start": 562.64,
+"end": 563.12,
+"text": "flags"
+},
+{
+"speaker": "speaker_0",
+"start": 563.2,
+"end": 572.0,
+"text": "now. But I mean, that's not many, you don't want to limit your marketing. I mean, people who live in basement flats, there's not that many people. But"
+},
+{
+"speaker": "speaker_3",
+"start": 572.0,
+"end": 572.64,
+"text": "there are"
+},
+{
+"speaker": "speaker_0",
+"start": 572.64,
+"end": 575.04,
+"text": "people who are marketing internationally."
+},
+{
+"speaker": "speaker_2",
+"start": 575.36,
+"end": 580.16,
+"text": "Yeah, most people also watch TV in the in the night, usually."
+},
+{
+"speaker": "speaker_0",
+"start": 581.28,
+"end": 586.96,
+"text": "But then it would be charging through the day. I think the point is that it charges through the day and then you've got it charged."
+},
+{
+"speaker": "speaker_2",
+"start": 587.36,
+"end": 587.44,
+"text": "So"
+},
+{
+"speaker": "speaker_0",
+"start": 588.24,
+"end": 588.48,
+"text": "I"
+},
+{
+"speaker": "speaker_2",
+"start": 588.48,
+"end": 595.28,
+"text": "think the next one's the best anyway, the kinetic charging, which is like you get it in wristwatches"
+},
+{
+"speaker": "speaker_0",
+"start": 595.92,
+"end": 596.16,
+"text": "and"
+},
+{
+"speaker": "speaker_2",
+"start": 596.96,
+"end": 608.16,
+"text": "you don't even notice it. I mean, the amount of probably moving around you'd be doing all the time would charge it up. I don't think you'd ever need to actually physically start shaping it up to make it work."
+},
+{
+"speaker": "speaker_3",
+"start": 608.72,
+"end": 613.44,
+"text": "How is this like the what is it like of the kinetic battery? It runs for a lot of time?"
+},
+{
+"speaker": "speaker_2",
+"start": 614.24,
+"end": 631.92,
+"text": "Yeah, it charges into some form of it's a smaller cell which it charges into. And the size sort of a watch, a watch battery, because they use them quite frequently in watches, and that would last for,"
+},
+{
+"speaker": "speaker_2",
+"start": 634.88,
+"end": 639.6800000000001,
+"text": "well I'm not entirely sure how long it would last, but I've never seen one run out."
+},
+{
+"speaker": "speaker_0",
+"start": 640.0,
+"end": 640.48,
+"text": "But then if"
+},
+{
+"speaker": "speaker_2",
+"start": 640.48,
+"end": 640.5600000000001,
+"text": "you"
+},
+{
+"speaker": "speaker_0",
+"start": 640.56,
+"end": 644.88,
+"text": "think about a watch, it's on your wrist, so it's on your body the whole time."
+},
+{
+"speaker": "speaker_2",
+"start": 645.2,
+"end": 645.44,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 646.08,
+"end": 655.04,
+"text": "So you're walking around, you're doing things. It is moving a lot of the time. I mean you switch the TV on, then you put it on the side, then you pick it up to change it, and then you put it on the side."
+},
+{
+"speaker": "speaker_2",
+"start": 655.44,
+"end": 656.4,
+"text": "Yeah, but then it's really"
+},
+{
+"speaker": "speaker_0",
+"start": 656.56,
+"end": 657.12,
+"text": "going to be enough."
+},
+{
+"speaker": "speaker_2",
+"start": 657.6,
+"end": 662.96,
+"text": "I think it is, because if you think about it, the watch, although it's only a tiny amount,"
+},
+{
+"speaker": "speaker_2",
+"start": 666.8,
+"end": 681.44,
+"text": "it's always moving for the whole day. And they don't run out overnight when you leave them on the side. And for the same reason, you're only using it for an incredibly short amount of time just to send the signal and then you're finished with it."
+},
+{
+"speaker": "speaker_0",
+"start": 681.76,
+"end": 683.28,
+"text": "So it's not to draw on it, isn't it?"
+},
+{
+"speaker": "speaker_2",
+"start": 683.52,
+"end": 684.72,
+"text": "No, no, I don't think the"
+},
+{
+"speaker": "speaker_3",
+"start": 686.8,
+"end": 693.76,
+"text": "referring back to solar charging, is that compatible with standard batteries? I mean, could people put standard batteries in, but with"
+},
+{
+"speaker": "speaker_3",
+"start": 695.36,
+"end": 695.76,
+"text": "solar charging?"
+},
+{
+"speaker": "speaker_2",
+"start": 695.92,
+"end": 696.16,
+"text": "Were the"
+},
+{
+"speaker": "speaker_3",
+"start": 696.16,
+"end": 697.2,
+"text": "two things not compatible?"
+},
+{
+"speaker": "speaker_2",
+"start": 697.84,
+"end": 698.24,
+"text": "Yeah, I think"
+},
+{
+"speaker": "speaker_2",
+"start": 699.76,
+"end": 710.5600000000001,
+"text": "you could have a dual power thing, but the thing with the solar cells is you would need to put them on the case. Because if you like on a calculator,"
+},
+{
+"speaker": "speaker_2",
+"start": 712.32,
+"end": 714.72,
+"text": "they're quite big and they all look identical."
+},
+{
+"speaker": "speaker_2",
+"start": 717.6,
+"end": 718.16,
+"text": "They're expensive."
+},
+{
+"speaker": "speaker_0",
+"start": 720.4,
+"end": 721.04,
+"text": "I presume"
+},
+{
+"speaker": "speaker_3",
+"start": 721.04,
+"end": 721.2,
+"text": "that"
+},
+{
+"speaker": "speaker_0",
+"start": 721.44,
+"end": 723.44,
+"text": "normal batteries are the cheapest. Yeah, the"
+},
+{
+"speaker": "speaker_2",
+"start": 723.44,
+"end": 730.32,
+"text": "normal batteries would be the cheapest. I presume that then it would actually be the solar charging ones. But"
+},
+{
+"speaker": "speaker_2",
+"start": 733.6,
+"end": 740.16,
+"text": "I think they're not very resistant to dropping. Because if you drop stuff, yeah, if you if you have"
+},
+{
+"speaker": "speaker_0",
+"start": 741.28,
+"end": 741.44,
+"text": "the"
+},
+{
+"speaker": "speaker_2",
+"start": 741.44,
+"end": 759.92,
+"text": "size you'd need to charge a remote wouldn't be that big, but I mean if remotes always get thrown around and stuff, so I think practically I mean calculators you don't really throw around a lot, whereas remotes you do. They tend to get a bit of"
+},
+{
+"speaker": "speaker_0",
+"start": 759.92,
+"end": 762.64,
+"text": "wear, but don't calculate just have a battery in the middle. Yeah"
+},
+{
+"speaker": "speaker_2",
+"start": 762.72,
+"end": 766.96,
+"text": "they do, yeah they've got dual things, but the batteries are smaller I think."
+},
+{
+"speaker": "speaker_3",
+"start": 767.28,
+"end": 777.28,
+"text": "Another question is like sorry which one would last the longest because we don't want customers to be like you know charging like a mobile phone every day. Or remote control like so"
+},
+{
+"speaker": "speaker_2",
+"start": 778.24,
+"end": 778.4,
+"text": "let's"
+},
+{
+"speaker": "speaker_3",
+"start": 778.48,
+"end": 779.28,
+"text": "look at the light also."
+},
+{
+"speaker": "speaker_2",
+"start": 779.84,
+"end": 796.64,
+"text": "Yeah the this if you if you had something dual uh using the standard batteries and the solo charging um I don't think you'd I think the it would well you know how long the standard double A's would last in or it's"
+},
+{
+"speaker": "speaker_1",
+"start": 797.2,
+"end": 797.36,
+"text": "attract"
+},
+{
+"speaker": "speaker_2",
+"start": 797.44,
+"end": 797.52,
+"text": "from"
+},
+{
+"speaker": "speaker_1",
+"start": 797.68,
+"end": 799.28,
+"text": "the attractiveness of the other whole features."
+},
+{
+"speaker": "speaker_2",
+"start": 799.68,
+"end": 800.88,
+"text": "Yeah I think I think it would."
+},
+{
+"speaker": "speaker_0",
+"start": 801.92,
+"end": 812.32,
+"text": "Okay can we add in an attachment to clothing feature? Can we think about that? Because if we're doing the kinetic thing and"
+},
+{
+"speaker": "speaker_1",
+"start": 813.6,
+"end": 813.6800000000001,
+"text": "I"
+},
+{
+"speaker": "speaker_0",
+"start": 813.76,
+"end": 813.84,
+"text": "could"
+},
+{
+"speaker": "speaker_1",
+"start": 813.92,
+"end": 816.16,
+"text": "research on that first before we add it in because I can"
+},
+{
+"speaker": "speaker_0",
+"start": 816.64,
+"end": 816.8000000000001,
+"text": "add"
+},
+{
+"speaker": "speaker_1",
+"start": 816.8,
+"end": 817.12,
+"text": "it in to"
+},
+{
+"speaker": "speaker_0",
+"start": 817.12,
+"end": 817.52,
+"text": "think about."
+},
+{
+"speaker": "speaker_1",
+"start": 817.84,
+"end": 818.48,
+"text": "Right, okay."
+},
+{
+"speaker": "speaker_0",
+"start": 822.0,
+"end": 856.5600000000001,
+"text": "Because where am I? If it is the kinetic thing and it is small and it is portable and it is a different shape and the kinetic is something people don't do kind of we're doing something original and different but if you wore it if it's something you could just clip on your pocket then you would have that less you you wouldn't lose it so much but then maybe that's looking at someone who's just sitting on their own rather than the eternal battle for control of the controls"
+},
+{
+"speaker": "speaker_1",
+"start": 857.2,
+"end": 862.16,
+"text": "it's not something that's come up in any of our uh focus groups and market research it's"
+},
+{
+"speaker": "speaker_0",
+"start": 862.16,
+"end": 862.24,
+"text": "not"
+},
+{
+"speaker": "speaker_1",
+"start": 862.32,
+"end": 863.84,
+"text": "something that people are looking for"
+},
+{
+"speaker": "speaker_0",
+"start": 864.16,
+"end": 864.4,
+"text": "okay"
+},
+{
+"speaker": "speaker_1",
+"start": 864.72,
+"end": 866.16,
+"text": "let me throw it open to the field"
+},
+{
+"speaker": "speaker_2",
+"start": 868.08,
+"end": 868.32,
+"text": "it's"
+},
+{
+"speaker": "speaker_1",
+"start": 868.32,
+"end": 870.32,
+"text": "something to put on the side to think about maybe"
+},
+{
+"speaker": "speaker_0",
+"start": 871.52,
+"end": 872.08,
+"text": "okay right"
+},
+{
+"speaker": "speaker_2",
+"start": 872.48,
+"end": 873.44,
+"text": "okay well I'll move on"
+},
+{
+"speaker": "speaker_2",
+"start": 875.12,
+"end": 907.84,
+"text": "my second part of my findings the most current remotes use this silicon PCB board which printed circuit board which basically has these contacts that are really close together and then when you press down on the rubber button it'll connect the circuit and each switch is connected to two different legs on the chip and so sends a different message and that then"
+},
+{
+"speaker": "speaker_2",
+"start": 909.44,
+"end": 917.84,
+"text": "gets translated by the chip into a code and then it's fired out of this LED in a sequence of on and off bursts."
+},
+{
+"speaker": "speaker_0",
+"start": 918.16,
+"end": 925.44,
+"text": "What kind of things do we have to consider there? Can we, what kind of size, does it come in varying sizes or is it just one size? Well,"
+},
+{
+"speaker": "speaker_2",
+"start": 925.6,
+"end": 925.76,
+"text": "and"
+},
+{
+"speaker": "speaker_0",
+"start": 925.76,
+"end": 927.28,
+"text": "we would have to fit the buttons. Well,"
+},
+{
+"speaker": "speaker_2",
+"start": 927.44,
+"end": 930.0,
+"text": "the thing about it is"
+},
+{
+"speaker": "speaker_2",
+"start": 931.92,
+"end": 945.6,
+"text": "they can be as big or as small as you want them to be because you can print circuit board like that. It's simply spaced like that so you can have fit the size of the nine buttons in. If you see how thin the tracks"
+},
+{
+"speaker": "speaker_0",
+"start": 945.6,
+"end": 945.9200000000001,
+"text": "are,"
+},
+{
+"speaker": "speaker_2",
+"start": 947.44,
+"end": 966.4,
+"text": "you could put them virtually right next to each other and have a much smaller switch on each one if you wanted to. But there is an option to do it like that, or you could have some sort of array of switches, which I'll speak about in the next"
+},
+{
+"speaker": "speaker_1",
+"start": 966.4,
+"end": 966.72,
+"text": "bit."
+},
+{
+"speaker": "speaker_2",
+"start": 969.12,
+"end": 988.88,
+"text": "And then to yeah, so to conserve battery life, remote should be in a standby note while not being used. Now what I was thinking about that was because sometimes when you have these things they've got little lights on behind the buttons so you can see what all the buttons are. Like on a mobile phone you do it more often than"
+},
+{
+"speaker": "speaker_2",
+"start": 990.88,
+"end": 1003.44,
+"text": "on a TV remote. But you could have lights behind the buttons and after like five or ten seconds of not being used I'd have that turned off if we decided to go for buttons that could light up."
+},
+{
+"speaker": "speaker_2",
+"start": 1005.6,
+"end": 1033.92,
+"text": "The case material, I've been sent what the factory can actually give us. There's the plastic which I think we were going to go for anyway as the main case housing and the main problems with the well you could go for wood but I think it would be a bit impractical. Titanium"
+},
+{
+"speaker": "speaker_2",
+"start": 1035.44,
+"end": 1086.56,
+"text": "very expensive just the process which to make it is expensive and rubber. Well you're saying that people like this spongy feel this year so perhaps something made of rubber but I was thinking more of the buttons because the buttons which they've said that they've they've put across are what is used in some stress ball manufacture and it's meant to be anti-RSI. I'm not sure how that would work because surely your fingers would still be moving over the short distances but that's what they said. The problem with the casing is that there's quite"
+},
+{
+"speaker": "speaker_2",
+"start": 1089.04,
+"end": 1109.6000000000001,
+"text": "a few design restrictions that they've got on the shape of the case. If you go for titanium they can only do a standard box shape whereas if you come to plastic they can they can be a little more they can they can do sort of curved shapes but whether whether or not because we'd have it in two separate units"
+},
+{
+"speaker": "speaker_2",
+"start": 1111.44,
+"end": 1112.32,
+"text": "for the flip flame"
+},
+{
+"speaker": "speaker_0",
+"start": 1112.64,
+"end": 1112.72,
+"text": "yeah"
+},
+{
+"speaker": "speaker_3",
+"start": 1112.8,
+"end": 1115.6000000000001,
+"text": "yeah and second question is like mobile you can change the colour"
+},
+{
+"speaker": "speaker_2",
+"start": 1115.92,
+"end": 1116.56,
+"text": "yeah colour to"
+},
+{
+"speaker": "speaker_3",
+"start": 1116.64,
+"end": 1128.32,
+"text": "skin or whatever so in this case if you're looking at like a customer can change the colour like from green parrot green to chili red or something like that yeah is that feature available in like uh titanium or it's like only specific to plastic"
+},
+{
+"speaker": "speaker_2",
+"start": 1128.64,
+"end": 1141.1200000000001,
+"text": "yeah in in titanium i don't i don't think it would be available at all really the j just it would well you could make it available in the titanium it's just it would be so expensive to buy a new case for"
+},
+{
+"speaker": "speaker_0",
+"start": 1141.12,
+"end": 1141.28,
+"text": "it"
+},
+{
+"speaker": "speaker_2",
+"start": 1141.84,
+"end": 1150.88,
+"text": "because of the expense of how much titanium is it's it's light and strong but i think it should be left for aircraft design rather than for"
+},
+{
+"speaker": "speaker_1",
+"start": 1152.08,
+"end": 1152.88,
+"text": "it does mark"
+},
+{
+"speaker": "speaker_2",
+"start": 1152.88,
+"end": 1153.04,
+"text": "quite"
+},
+{
+"speaker": "speaker_1",
+"start": 1153.12,
+"end": 1158.24,
+"text": "easily too if you let it fall i've got a mobile phone myself which is titanium and it does mark very easily yeah"
+},
+{
+"speaker": "speaker_1",
+"start": 1164.96,
+"end": 1168.64,
+"text": "that gives the spongy feel that also allows us to kind of have different fascia"
+},
+{
+"speaker": "speaker_0",
+"start": 1170.24,
+"end": 1174.56,
+"text": "so instead of the fascia that comes off being plastic the fascia that comes off"
+},
+{
+"speaker": "speaker_1",
+"start": 1174.64,
+"end": 1175.3600000000001,
+"text": "would be the rubber"
+},
+{
+"speaker": "speaker_2",
+"start": 1176.4,
+"end": 1176.56,
+"text": "like"
+},
+{
+"speaker": "speaker_0",
+"start": 1176.56,
+"end": 1178.56,
+"text": "those pens that you get with a grip yeah"
+},
+{
+"speaker": "speaker_2",
+"start": 1178.72,
+"end": 1178.88,
+"text": "right"
+},
+{
+"speaker": "speaker_0",
+"start": 1179.12,
+"end": 1179.44,
+"text": "that you can"
+},
+{
+"speaker": "speaker_3",
+"start": 1180.08,
+"end": 1183.68,
+"text": "build that off okay it would become pretty good to hold on to"
+},
+{
+"speaker": "speaker_1",
+"start": 1184.64,
+"end": 1188.0,
+"text": "very cheap way of changing the look of it and people can just buy a new one yeah"
+},
+{
+"speaker": "speaker_0",
+"start": 1188.72,
+"end": 1192.88,
+"text": "well that's been really popular with mobile phones so I don't see why not"
+},
+{
+"speaker": "speaker_2",
+"start": 1193.76,
+"end": 1194.48,
+"text": "also the"
+},
+{
+"speaker": "speaker_0",
+"start": 1195.36,
+"end": 1195.44,
+"text": "just"
+},
+{
+"speaker": "speaker_2",
+"start": 1195.6,
+"end": 1249.84,
+"text": "just going back to the interface designs with the buttons the I know we were planning to do some sort of touch screen now what I was saying before about instead of having you could have just a bare PCB circuit board and I'm sure you could probably get it in different colours and say just by touching it with your finger it would make the connection over if you had them close enough that would be one option the second option they offer rubber buttons but I thought that an L C D type of screen because one they're incredibly thin and don't take up much space two they you can have them in a sort of array and you could arrange the buttons on the screen in a sort of set thing and you could have them like a touch"
+},
+{
+"speaker": "speaker_3",
+"start": 1250.48,
+"end": 1250.96,
+"text": "so I can"
+},
+{
+"speaker": "speaker_2",
+"start": 1251.28,
+"end": 1251.52,
+"text": "see the"
+},
+{
+"speaker": "speaker_3",
+"start": 1251.52,
+"end": 1253.3600000000001,
+"text": "last part you took off"
+},
+{
+"speaker": "speaker_2",
+"start": 1254.88,
+"end": 1255.3600000000001,
+"text": "what what"
+},
+{
+"speaker": "speaker_3",
+"start": 1255.68,
+"end": 1259.52,
+"text": "just what you said I didn't get the meaning of it completely you're saying oh"
+},
+{
+"speaker": "speaker_2",
+"start": 1259.6,
+"end": 1283.44,
+"text": "on the on the L C D screen you could because you could fit it the problem with it basically is that it's flat and so you can't do lots of curved curved things with it but you can you wouldn't have with the L C D you'd have the wires coming off you wouldn't have that with the with the L C D you'd only have that with the printed circuit board with"
+},
+{
+"speaker": "speaker_1",
+"start": 1285.36,
+"end": 1285.6000000000001,
+"text": "also with"
+},
+{
+"speaker": "speaker_2",
+"start": 1291.2,
+"end": 1291.28,
+"text": "the"
+},
+{
+"speaker": "speaker_0",
+"start": 1291.92,
+"end": 1292.96,
+"text": "slanted flat screen you"
+},
+{
+"speaker": "speaker_2",
+"start": 1292.96,
+"end": 1293.1200000000001,
+"text": "could have"
+},
+{
+"speaker": "speaker_1",
+"start": 1293.12,
+"end": 1293.52,
+"text": "a flat"
+},
+{
+"speaker": "speaker_2",
+"start": 1293.52,
+"end": 1311.92,
+"text": "screen inside yeah but I'm just wondering whether we want an L C D screen inside it wouldn't be like full colour it would just be black and white but there'd be touch touch buttons so you wouldn't be pressing down them or we could have rubber buttons which are made of this material which is anti-RSI"
+},
+{
+"speaker": "speaker_0",
+"start": 1312.4,
+"end": 1327.76,
+"text": "I think it would be good to have a contrast between if the whole thing is going to be this rubber thing it would be good to open it up and see something quite fancy looking inside now how would you distinguish if you had it bare how would you distinguish where you had to press I mean"
+},
+{
+"speaker": "speaker_2",
+"start": 1328.4,
+"end": 1329.76,
+"text": "yeah I hadn't I hadn't really thought so"
+},
+{
+"speaker": "speaker_1",
+"start": 1331.12,
+"end": 1341.2,
+"text": "if it helps with that but just to do with the RSI is it possible just as an option when we open it up people can use their fingers to press the button or we have inside like a small pointer thing"
+},
+{
+"speaker": "speaker_2",
+"start": 1341.52,
+"end": 1349.2,
+"text": "yeah you could you could have some sort of stylus that you could pull out but I think they could get a bit easily lost"
+},
+{
+"speaker": "speaker_1",
+"start": 1349.84,
+"end": 1349.92,
+"text": "because"
+},
+{
+"speaker": "speaker_1",
+"start": 1351.68,
+"end": 1352.0,
+"text": "someone who's"
+},
+{
+"speaker": "speaker_3",
+"start": 1352.08,
+"end": 1352.64,
+"text": "lost very"
+},
+{
+"speaker": "speaker_1",
+"start": 1352.64,
+"end": 1352.96,
+"text": "often"
+},
+{
+"speaker": "speaker_3",
+"start": 1353.76,
+"end": 1360.0,
+"text": "a person who switches channels very often or does reuse a particular function very often will find it very irritating to use a you know"
+},
+{
+"speaker": "speaker_2",
+"start": 1360.32,
+"end": 1360.56,
+"text": "yeah"
+},
+{
+"speaker": "speaker_3",
+"start": 1360.88,
+"end": 1364.32,
+"text": "and he might spoil your touchpad very fast compared to a button like"
+},
+{
+"speaker": "speaker_2",
+"start": 1364.88,
+"end": 1365.04,
+"text": "if"
+},
+{
+"speaker": "speaker_3",
+"start": 1365.04,
+"end": 1367.52,
+"text": "you keep punching with a pointer or whatever"
+},
+{
+"speaker": "speaker_2",
+"start": 1367.68,
+"end": 1367.84,
+"text": "yeah"
+},
+{
+"speaker": "speaker_1",
+"start": 1368.56,
+"end": 1374.0,
+"text": "just a thought they wouldn't actually need one and they could use anything they've got couldn't they a pencil a pen so they wouldn't really need a"
+},
+{
+"speaker": "speaker_0",
+"start": 1374.48,
+"end": 1377.76,
+"text": "okay we'll talk about that so if you finish here and we'll"
+},
+{
+"speaker": "speaker_2",
+"start": 1377.76,
+"end": 1379.76,
+"text": "come back to that yeah that that's the"
+},
+{
+"speaker": "speaker_0",
+"start": 1379.76,
+"end": 1379.92,
+"text": "end"
+},
+{
+"speaker": "speaker_2",
+"start": 1379.92,
+"end": 1380.24,
+"text": "of the"
+},
+{
+"speaker": "speaker_0",
+"start": 1381.2,
+"end": 1381.28,
+"text": "thing"
+},
+{
+"speaker": "speaker_3",
+"start": 1381.36,
+"end": 1384.72,
+"text": "before like you were this thing regarding the circuit since we are having having a flip top"
+},
+{
+"speaker": "speaker_2",
+"start": 1384.88,
+"end": 1385.3600000000001,
+"text": "should we have"
+},
+{
+"speaker": "speaker_3",
+"start": 1385.36,
+"end": 1389.52,
+"text": "customize the two circuits for different type of buttons like we are keeping the standard buttons on the top"
+},
+{
+"speaker": "speaker_2",
+"start": 1390.4,
+"end": 1390.64,
+"text": "complex"
+},
+{
+"speaker": "speaker_3",
+"start": 1390.64,
+"end": 1393.2,
+"text": "buttons and then this thing so we can divide the circuit like you"
+},
+{
+"speaker": "speaker_2",
+"start": 1393.76,
+"end": 1411.44,
+"text": "yeah yeah that that would be fairly simple I mean you'd you'd actually have two separate you'd have two separate circuit boards but they'd be joined by wires or like some cabling between them because in the in the actual flip bit you'd have some linking"
+},
+{
+"speaker": "speaker_1",
+"start": 1413.2,
+"end": 1427.84,
+"text": "I just raise another point that occurs to me it kind of applies to both our designers here I'm not sure how it would fit in if we flip open and you know how you've got some mirrors in nightclubs that are mirrors when you turn to them and you turn away and it gives like an advertising display have you seen those"
+},
+{
+"speaker": "speaker_0",
+"start": 1428.0,
+"end": 1428.16,
+"text": "yeah"
+},
+{
+"speaker": "speaker_1",
+"start": 1428.88,
+"end": 1440.72,
+"text": "and they kind of respond to the turn of your body is it possible that when we open our flip-top shell it's a little compact mirror and when you press a button it then goes onto the phone display the remote control display"
+},
+{
+"speaker": "speaker_0",
+"start": 1441.76,
+"end": 1444.88,
+"text": "we're marketing to guys as much as we are to women"
+},
+{
+"speaker": "speaker_1",
+"start": 1445.28,
+"end": 1448.48,
+"text": "they don't look at themselves just a thought"
+},
+{
+"speaker": "speaker_0",
+"start": 1448.8,
+"end": 1453.76,
+"text": "well it's a remote control you're sitting watching T V are you going to want to sort of open it and say what"
+},
+{
+"speaker": "speaker_1",
+"start": 1453.84,
+"end": 1454.56,
+"text": "you should go because"
+},
+{
+"speaker": "speaker_1",
+"start": 1457.92,
+"end": 1459.52,
+"text": "using the ideas from mobile phones we've kind of got"
+},
+{
+"speaker": "speaker_0",
+"start": 1459.92,
+"end": 1460.56,
+"text": "touched onto that"
+},
+{
+"speaker": "speaker_1",
+"start": 1460.64,
+"end": 1466.08,
+"text": "I think and then I'm just trying to think of other features we can build in that wouldn't cost too much but we'll maybe leave that one on the side"
+},
+{
+"speaker": "speaker_2",
+"start": 1466.4,
+"end": 1466.56,
+"text": "yeah"
+},
+{
+"speaker": "speaker_2",
+"start": 1469.36,
+"end": 1481.04,
+"text": "I mean you can you could do it you could have a because if you if you just put the full charge through an L C D display it will completely blank it out but I don't know if you could get any mirror effect on it"
+},
+{
+"speaker": "speaker_3",
+"start": 1486.16,
+"end": 1486.48,
+"text": "okay"
+},
+{
+"speaker": "speaker_3",
+"start": 1489.76,
+"end": 1515.84,
+"text": "I'll have to share something which I did here first thing is basically on design we just took the input from the previous meeting especially from the marketing and industrial design to check on the customer needs and feasibility second is we checked into competitors the picture here shows what are the standard models offered by computers here so you generally see there's not much of variety and like marketing team said people need trendy they are both of black and white so"
+},
+{
+"speaker": "speaker_2",
+"start": 1515.92,
+"end": 1516.08,
+"text": "you"
+},
+{
+"speaker": "speaker_3",
+"start": 1516.08,
+"end": 1521.6000000000001,
+"text": "generally see rectangular shape very monotonous kind of designs here"
+},
+{
+"speaker": "speaker_3",
+"start": 1523.12,
+"end": 1529.68,
+"text": "and second thing is there's too much of confusion here no particular remote is standard"
+},
+{
+"speaker": "speaker_3",
+"start": 1531.2,
+"end": 1532.72,
+"text": "like some some people have"
+},
+{
+"speaker": "speaker_3",
+"start": 1534.64,
+"end": 1557.44,
+"text": "here you see this this is on uh I I I found out that only common feature is the channel control and the volume control. Whereas other buttons, they are in a very disorganized and they are not consistent with other models and all. Okay, and second, as I already discussed with William, we are going to have maybe a GUI interface in the middle of the flip top."
+},
+{
+"speaker": "speaker_0",
+"start": 1557.6,
+"end": 1557.92,
+"text": "Sorry, what's the problem?"
+},
+{
+"speaker": "speaker_3",
+"start": 1558.88,
+"end": 1564.88,
+"text": "Graphic user interface. Basically, which is what we do in computer, have icons or touchpad or whatever. Yeah,"
+},
+{
+"speaker": "speaker_2",
+"start": 1564.96,
+"end": 1568.32,
+"text": "if you have like buttons that appear on the screen and this L C D screen."
+},
+{
+"speaker": "speaker_3",
+"start": 1568.88,
+"end": 1574.88,
+"text": "Like you have an uh icons or something you have. It's a good example of GUI, graphic user"
+},
+{
+"speaker": "speaker_2",
+"start": 1574.88,
+"end": 1575.3600000000001,
+"text": "interface."
+},
+{
+"speaker": "speaker_3",
+"start": 1576.24,
+"end": 1608.4,
+"text": "So basically a person need not point or click or uh press any particular device, he just has to click on that particular icon to simplify. And on the top repetitive buttons which are like volume or channel changing and all could be on the pointing device. That means user button. So he need not use a pointer to keep changing the channel if a person is frequent circle. So we are having a combination of both. So on the simpler board on the top we have this button, rubber buttons, to keep frequently changing the channels."
+},
+{
+"speaker": "speaker_0",
+"start": 1609.36,
+"end": 1614.64,
+"text": "Can we swap that round so that the ones that we use all the time are on the bottom part?"
+},
+{
+"speaker": "speaker_3",
+"start": 1615.68,
+"end": 1615.76,
+"text": "Because"
+},
+{
+"speaker": "speaker_0",
+"start": 1615.84,
+"end": 1617.28,
+"text": "if you think you're holding it"
+},
+{
+"speaker": "speaker_0",
+"start": 1618.8,
+"end": 1622.48,
+"text": "you would be using your thumbs to press. Just like a mobile phone."
+},
+{
+"speaker": "speaker_1",
+"start": 1622.72,
+"end": 1622.88,
+"text": "If you"
+},
+{
+"speaker": "speaker_2",
+"start": 1622.96,
+"end": 1623.04,
+"text": "hold"
+},
+{
+"speaker": "speaker_1",
+"start": 1623.12,
+"end": 1625.04,
+"text": "it, you don't have to flip it open and you'd be."
+},
+{
+"speaker": "speaker_1",
+"start": 1626.96,
+"end": 1635.1200000000001,
+"text": "Wouldn't you? Isn't that the idea? If we just use the shell as an example, you open that, you've got your L C D display there and you've got the buttons there if you hold it."
+},
+{
+"speaker": "speaker_2",
+"start": 1635.52,
+"end": 1635.68,
+"text": "That's"
+},
+{
+"speaker": "speaker_1",
+"start": 1635.68,
+"end": 1636.0,
+"text": "what I was"
+},
+{
+"speaker": "speaker_0",
+"start": 1636.0,
+"end": 1636.24,
+"text": "just saying."
+},
+{
+"speaker": "speaker_0",
+"start": 1638.4,
+"end": 1643.28,
+"text": "And then have the L C D at the top and then be able to touch that for the other"
+},
+{
+"speaker": "speaker_3",
+"start": 1644.72,
+"end": 1644.8,
+"text": "to"
+},
+{
+"speaker": "speaker_0",
+"start": 1644.88,
+"end": 1649.04,
+"text": "have the volume and the program and things like that."
+},
+{
+"speaker": "speaker_3",
+"start": 1649.52,
+"end": 1650.32,
+"text": "On the lower side. On"
+},
+{
+"speaker": "speaker_0",
+"start": 1650.32,
+"end": 1650.56,
+"text": "the lower"
+},
+{
+"speaker": "speaker_3",
+"start": 1651.12,
+"end": 1651.92,
+"text": "side. Perfect."
+},
+{
+"speaker": "speaker_3",
+"start": 1655.52,
+"end": 1684.8,
+"text": "So the findings are too many cluttered buttons. The repetition of certain patterns which I already explained. Example the volume and channel control buttons. All are confusing and inconsistent. Okay, we had a latest finding of voice recognition. There was a mail which mentions that our division has developed a new speech recognition feature. We have to check into the financial feasibility whether we can incorporate this at a low cost. But for like we had"
+},
+{
+"speaker": "speaker_3",
+"start": 1686.64,
+"end": 1706.8,
+"text": "response from the customers that they would like to have the feature of finding it. So it could be like where is the remote and the remote answers I am here. Some kind of thing or it gives a blip sound or some kind of sound. And if this can be incorporated this will be more you can say trendy also and technologically innovative also."
+},
+{
+"speaker": "speaker_3",
+"start": 1709.12,
+"end": 1712.96,
+"text": "So we can check into the financial feasibility of incorporating this."
+},
+{
+"speaker": "speaker_3",
+"start": 1716.08,
+"end": 1730.64,
+"text": "My personal preferences would be like as already highlighted by marketing department they want something to do with fruit. So I wouldn't say the design should be like a fruit. But yeah we can take inspiration from fruit colors like the vibrant colours, a red chili,"
+},
+{
+"speaker": "speaker_3",
+"start": 1732.8,
+"end": 1741.44,
+"text": "tomato red or whatever. And second thing is certain standard buttons we should have. Like for example if you see the previous slide"
+},
+{
+"speaker": "speaker_3",
+"start": 1746.0,
+"end": 1750.72,
+"text": "I think most of the users would now be well acquainted with this central pattern here."
+},
+{
+"speaker": "speaker_2",
+"start": 1751.52,
+"end": 1751.6000000000001,
+"text": "So"
+},
+{
+"speaker": "speaker_3",
+"start": 1751.76,
+"end": 1757.28,
+"text": "we would not change that particular pattern because it this is the most consistent thing in all remote controls."
+},
+{
+"speaker": "speaker_0",
+"start": 1757.52,
+"end": 1759.92,
+"text": "I can't see that. Is that play and stop and things?"
+},
+{
+"speaker": "speaker_3",
+"start": 1760.16,
+"end": 1771.6000000000001,
+"text": "This is the central one, the one volume and channel. So keep that standardized because that's the most common feature across all models. If you look at all the models it's here."
+},
+{
+"speaker": "speaker_3",
+"start": 1773.84,
+"end": 1774.08,
+"text": "This."
+},
+{
+"speaker": "speaker_3",
+"start": 1777.12,
+"end": 1777.3600000000001,
+"text": "And"
+},
+{
+"speaker": "speaker_3",
+"start": 1780.72,
+"end": 1781.76,
+"text": "voice recognition."
+},
+{
+"speaker": "speaker_0",
+"start": 1782.88,
+"end": 1783.1200000000001,
+"text": "Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 1787.84,
+"end": 1798.0,
+"text": "Right. Okay. Um I'm not sure how long we've got left, but we need to make a decision about um"
+},
+{
+"speaker": "speaker_0",
+"start": 1800.88,
+"end": 1806.08,
+"text": "the things we've discussed. So we agree on"
+},
+{
+"speaker": "speaker_0",
+"start": 1807.68,
+"end": 1809.3600000000001,
+"text": "do we agree on the battery?"
+},
+{
+"speaker": "speaker_3",
+"start": 1809.68,
+"end": 1810.24,
+"text": "Kind of do."
+},
+{
+"speaker": "speaker_0",
+"start": 1811.44,
+"end": 1811.52,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 1813.2,
+"end": 1823.2,
+"text": "Um that means that there's no function for the port, you know, that it sits in there pressing button then having so we could incorporate voice recognition and"
+},
+{
+"speaker": "speaker_2",
+"start": 1823.44,
+"end": 1824.64,
+"text": "finding it. I mean it's a"
+},
+{
+"speaker": "speaker_0",
+"start": 1824.88,
+"end": 1826.88,
+"text": "it's it's like a it's a gadget, it's a"
+},
+{
+"speaker": "speaker_2",
+"start": 1828.24,
+"end": 1828.56,
+"text": "selling"
+},
+{
+"speaker": "speaker_0",
+"start": 1828.56,
+"end": 1829.04,
+"text": "point. It's"
+},
+{
+"speaker": "speaker_2",
+"start": 1829.04,
+"end": 1847.6000000000001,
+"text": "quite a cool feature to have and also if they've got it, if they've got these parts already in stock then it won't be cheap to remanufacture them. It will be cheap so to remanufaction. So do you reckon that's a good idea that where's the remote I'm here thing? I think that would be quite"
+},
+{
+"speaker": "speaker_1",
+"start": 1847.6,
+"end": 1847.8400000000001,
+"text": "fun."
+},
+{
+"speaker": "speaker_0",
+"start": 1850.24,
+"end": 1865.3600000000001,
+"text": "I think the only pitfall that we would have would be how much it's going to cost. If that means we have to cut down somewhere else. But I think pretty much we've used cheap, relatively cheap and simple things. The"
+},
+{
+"speaker": "speaker_2",
+"start": 1865.36,
+"end": 1865.52,
+"text": "L"
+},
+{
+"speaker": "speaker_0",
+"start": 1865.52,
+"end": 1866.48,
+"text": "C D's not cheap."
+},
+{
+"speaker": "speaker_2",
+"start": 1866.8,
+"end": 1876.08,
+"text": "Well it's it's not as expensive as it would be if it was full colour because if we've just got a black and white one, I mean they use them in calculators."
+},
+{
+"speaker": "speaker_0",
+"start": 1876.64,
+"end": 1877.76,
+"text": "Yeah, okay. Maybe"
+},
+{
+"speaker": "speaker_3",
+"start": 1877.76,
+"end": 1879.52,
+"text": "we could start with a black and white."
+},
+{
+"speaker": "speaker_2",
+"start": 1880.08,
+"end": 1880.8,
+"text": "Yeah. Then"
+},
+{
+"speaker": "speaker_0",
+"start": 1880.88,
+"end": 1881.04,
+"text": "you"
+},
+{
+"speaker": "speaker_3",
+"start": 1881.44,
+"end": 1883.44,
+"text": "could upgrade you to an update."
+},
+{
+"speaker": "speaker_1",
+"start": 1884.72,
+"end": 1889.6000000000001,
+"text": "We talked about kinetic charging, we seem to have decided on that. Did we decide on AA or AAA batteries?"
+},
+{
+"speaker": "speaker_2",
+"start": 1891.84,
+"end": 1891.92,
+"text": "You"
+},
+{
+"speaker": "speaker_0",
+"start": 1891.92,
+"end": 1893.2,
+"text": "went like a backup?"
+},
+{
+"speaker": "speaker_1",
+"start": 1893.84,
+"end": 1898.88,
+"text": "No, one of the decisions we had to make was whether we had AA or AAA batteries, because they still got to be charged this way, haven't they?"
+},
+{
+"speaker": "speaker_2",
+"start": 1899.6,
+"end": 1904.96,
+"text": "No, the kinetic ones come with the sort of watch, a battery that goes in a watch."
+},
+{
+"speaker": "speaker_0",
+"start": 1905.2,
+"end": 1906.0,
+"text": "Right, okay, got you."
+},
+{
+"speaker": "speaker_2",
+"start": 1906.32,
+"end": 1908.08,
+"text": "So it's a lot smaller than that, so we'd..."
+},
+{
+"speaker": "speaker_0",
+"start": 1913.52,
+"end": 1921.04,
+"text": "Okay, so we've got a battery. The inside components is pretty standardised across the board, isn't it?"
+},
+{
+"speaker": "speaker_2",
+"start": 1921.36,
+"end": 1922.16,
+"text": "Yeah. So"
+},
+{
+"speaker": "speaker_0",
+"start": 1922.24,
+"end": 1924.88,
+"text": "there's not really a decision to be made there."
+},
+{
+"speaker": "speaker_0",
+"start": 1927.92,
+"end": 1931.04,
+"text": "The buttons, what did you give us as our"
+},
+{
+"speaker": "speaker_1",
+"start": 1934.64,
+"end": 1934.8,
+"text": "the"
+},
+{
+"speaker": "speaker_0",
+"start": 1934.8,
+"end": 1936.88,
+"text": "bare board L C D on the yeah the"
+},
+{
+"speaker": "speaker_2",
+"start": 1937.12,
+"end": 1941.6000000000001,
+"text": "I think we went we're going for the L C D on the on the buttons on"
+},
+{
+"speaker": "speaker_3",
+"start": 1941.84,
+"end": 1942.0,
+"text": "on"
+},
+{
+"speaker": "speaker_2",
+"start": 1942.0,
+"end": 1945.28,
+"text": "the on on the top one on the top"
+},
+{
+"speaker": "speaker_0",
+"start": 1945.28,
+"end": 1946.56,
+"text": "one okay you've got the touch"
+},
+{
+"speaker": "speaker_2",
+"start": 1946.88,
+"end": 1947.04,
+"text": "yeah"
+},
+{
+"speaker": "speaker_0",
+"start": 1947.6,
+"end": 1949.28,
+"text": "okay and then"
+},
+{
+"speaker": "speaker_2",
+"start": 1949.92,
+"end": 1955.6000000000001,
+"text": "on the bottom we were going to have the rubber rubber ones the anti RSR ones"
+},
+{
+"speaker": "speaker_0",
+"start": 1956.64,
+"end": 1958.4,
+"text": "okay okay"
+},
+{
+"speaker": "speaker_1",
+"start": 1959.68,
+"end": 1961.76,
+"text": "so could you repeat that last part"
+},
+{
+"speaker": "speaker_2",
+"start": 1962.08,
+"end": 1964.32,
+"text": "um okay on we've got the flip"
+},
+{
+"speaker": "speaker_1",
+"start": 1964.56,
+"end": 1964.64,
+"text": "the"
+},
+{
+"speaker": "speaker_2",
+"start": 1964.64,
+"end": 1969.8400000000001,
+"text": "flip screen the top one is going to be the L C D and the bottom one is going to be the rubberized button"
+},
+{
+"speaker": "speaker_0",
+"start": 1970.16,
+"end": 1970.4,
+"text": "okay"
+},
+{
+"speaker": "speaker_3",
+"start": 1971.52,
+"end": 1972.24,
+"text": "and for the"
+},
+{
+"speaker": "speaker_0",
+"start": 1973.36,
+"end": 1974.0800000000002,
+"text": "no design"
+},
+{
+"speaker": "speaker_3",
+"start": 1976.96,
+"end": 1979.2,
+"text": "for the body design I think plastic"
+},
+{
+"speaker": "speaker_2",
+"start": 1980.16,
+"end": 1980.72,
+"text": "plastic"
+},
+{
+"speaker": "speaker_3",
+"start": 1980.88,
+"end": 1981.04,
+"text": "yeah"
+},
+{
+"speaker": "speaker_3",
+"start": 1982.72,
+"end": 1987.92,
+"text": "for the inside and yeah rubber as a padding or for the grapes something like to add to the design"
+},
+{
+"speaker": "speaker_1",
+"start": 1989.36,
+"end": 1991.8400000000001,
+"text": "so we decided on a rubber casing for the plastic shell"
+},
+{
+"speaker": "speaker_0",
+"start": 1992.56,
+"end": 1992.64,
+"text": "I"
+},
+{
+"speaker": "speaker_1",
+"start": 1992.64,
+"end": 1992.96,
+"text": "think so"
+},
+{
+"speaker": "speaker_0",
+"start": 1993.36,
+"end": 1994.0,
+"text": "I think so"
+},
+{
+"speaker": "speaker_1",
+"start": 1995.92,
+"end": 2007.44,
+"text": "and it is just uh although it's rubberized and spongy apart from that we're just going to go for sort of vegetable and fruit colours we're not going to try and make actually a vegetable or fruit design or anything else in the shell no"
+},
+{
+"speaker": "speaker_0",
+"start": 2007.52,
+"end": 2007.76,
+"text": "I"
+},
+{
+"speaker": "speaker_1",
+"start": 2007.76,
+"end": 2008.0,
+"text": "think"
+},
+{
+"speaker": "speaker_0",
+"start": 2008.32,
+"end": 2010.96,
+"text": "we don't want to be turkey if we've got a kind"
+},
+{
+"speaker": "speaker_1",
+"start": 2010.96,
+"end": 2011.28,
+"text": "of"
+},
+{
+"speaker": "speaker_0",
+"start": 2011.6,
+"end": 2013.28,
+"text": "different shape anyway"
+},
+{
+"speaker": "speaker_0",
+"start": 2014.8,
+"end": 2021.2,
+"text": "the fact the material that we would be using would be cheap so we could make it red we could make it"
+},
+{
+"speaker": "speaker_0",
+"start": 2022.72,
+"end": 2031.52,
+"text": "psychedelic you know we could make it black and white zebra stripes but that's not really what we're focusing on what we're focusing on is the you know"
+},
+{
+"speaker": "speaker_1",
+"start": 2031.84,
+"end": 2032.16,
+"text": "the feel"
+},
+{
+"speaker": "speaker_0",
+"start": 2032.8,
+"end": 2036.48,
+"text": "yes so we could just pick anything"
+},
+{
+"speaker": "speaker_1",
+"start": 2037.68,
+"end": 2056.08,
+"text": "is that going to be this image I've got in my head of something kind of shaped like that maybe about that size made of plastic fits into the palm of the hand rubberized cover that's spongy is that really going to fit fancy look and feel which was the major thing that people wanted market research that's just"
+},
+{
+"speaker": "speaker_0",
+"start": 2056.08,
+"end": 2078.8,
+"text": "different it's just different from everything else and I mean I'm trying to imagine clean looking houses sort of beige and black do you either want something that goes with that which is what's on the market anyway or you want something that contrasts as you know like you get clocks now that are more"
+},
+{
+"speaker": "speaker_1",
+"start": 2078.8,
+"end": 2078.88,
+"text": "of"
+},
+{
+"speaker": "speaker_0",
+"start": 2078.88,
+"end": 2082.48,
+"text": "a talking point than an actual clock because they're so interesting"
+},
+{
+"speaker": "speaker_1",
+"start": 2083.2,
+"end": 2094.08,
+"text": "in that feature came out with anything else but I mean I totally agree we looked at those remotes I mean they are kind of anonymous very similar looking things this would definitely be different enough I just wonder if anybody could come up with something you can"
+},
+{
+"speaker": "speaker_0",
+"start": 2094.48,
+"end": 2105.84,
+"text": "and you would just have a across the board you would have so many different options that you could do you could have a plain black one you could have sparkly pink glittery"
+},
+{
+"speaker": "speaker_1",
+"start": 2105.84,
+"end": 2116.0,
+"text": "ones for you are going to be so relatively cheap to produce that if in a year's time you could get feedback from the design fairs that show something else is coming up it's so easy to produce that could be slipped on"
+},
+{
+"speaker": "speaker_0",
+"start": 2116.32,
+"end": 2116.8,
+"text": "and the ones that"
+},
+{
+"speaker": "speaker_1",
+"start": 2117.36,
+"end": 2117.52,
+"text": "you have"
+},
+{
+"speaker": "speaker_0",
+"start": 2117.92,
+"end": 2123.04,
+"text": "ones that have rubbery spikes you know you could just go so"
+},
+{
+"speaker": "speaker_3",
+"start": 2123.28,
+"end": 2123.44,
+"text": "far"
+},
+{
+"speaker": "speaker_2",
+"start": 2123.6,
+"end": 2123.76,
+"text": "with it"
+},
+{
+"speaker": "speaker_0",
+"start": 2124.0,
+"end": 2124.16,
+"text": "with a"
+},
+{
+"speaker": "speaker_3",
+"start": 2124.16,
+"end": 2124.88,
+"text": "cooperation like a"
+},
+{
+"speaker": "speaker_0",
+"start": 2124.88,
+"end": 2125.52,
+"text": "puffer fix"
+},
+{
+"speaker": "speaker_1",
+"start": 2125.68,
+"end": 2125.92,
+"text": "you could"
+},
+{
+"speaker": "speaker_0",
+"start": 2125.92,
+"end": 2130.08,
+"text": "just you could take it wherever so I think that's quite a flexible"
+},
+{
+"speaker": "speaker_3",
+"start": 2130.88,
+"end": 2136.64,
+"text": "and finally the body should be detachable maybe you can change the body of the case casing the case out"
+},
+{
+"speaker": "speaker_0",
+"start": 2137.12,
+"end": 2137.28,
+"text": "yes"
+},
+{
+"speaker": "speaker_3",
+"start": 2137.52,
+"end": 2140.8,
+"text": "it should be molded with the design in such a way you can change it everything"
+},
+{
+"speaker": "speaker_2",
+"start": 2141.6,
+"end": 2151.36,
+"text": "yeah yeah with these rubber these rubberized case not the actual uh plastic outside case just the rubber thing you guys want to make sense"
+},
+{
+"speaker": "speaker_0",
+"start": 2152.24,
+"end": 2156.96,
+"text": "okay we've got five minutes um well that might have been up for a while"
+},
+{
+"speaker": "speaker_1",
+"start": 2157.2,
+"end": 2158.32,
+"text": "so can I just recap"
+},
+{
+"speaker": "speaker_1",
+"start": 2160.08,
+"end": 2179.04,
+"text": "the decisions that we've made kinetic charging the watch type batteries and L C D display on the top side of the flip top rubberized buttons on the bottom side we're going to use fruit and vegetable colour to the rubber cover the case itself is plastic that's how far we've got what else do we have to add to our decisions here"
+},
+{
+"speaker": "speaker_3",
+"start": 2180.32,
+"end": 2183.44,
+"text": "fine uh we're talking of voice recognition also"
+},
+{
+"speaker": "speaker_1",
+"start": 2184.08,
+"end": 2184.4,
+"text": "because"
+},
+{
+"speaker": "speaker_3",
+"start": 2184.4,
+"end": 2190.4,
+"text": "that we have not addressed the issue of uh how to locate uh remote control if it's lost"
+},
+{
+"speaker": "speaker_1",
+"start": 2191.04,
+"end": 2192.48,
+"text": "so are you looking at voice recognition"
+},
+{
+"speaker": "speaker_1",
+"start": 2195.92,
+"end": 2196.0,
+"text": "or"
+},
+{
+"speaker": "speaker_3",
+"start": 2196.08,
+"end": 2201.28,
+"text": "maybe like uh William was suggesting the last thing some devices you put on keychains for"
+},
+{
+"speaker": "speaker_3",
+"start": 2203.2,
+"end": 2208.7200000000003,
+"text": "the whistle so we can if financially voice recognition is not feasible we could go for a whistle"
+},
+{
+"speaker": "speaker_1",
+"start": 2217.04,
+"end": 2221.84,
+"text": "and incorporating the company logo have you"
+},
+{
+"speaker": "speaker_3",
+"start": 2222.8,
+"end": 2225.6,
+"text": "so you mentioned but we'll be incorporating in the design"
+},
+{
+"speaker": "speaker_1",
+"start": 2226.48,
+"end": 2235.44,
+"text": "because I took it from the feedback you gave in the last meeting from your report that it's not just a case of having a little RR hidden somewhere they do want it to be obvious that it's our product"
+},
+{
+"speaker": "speaker_0",
+"start": 2235.76,
+"end": 2237.36,
+"text": "well they do but I think we can"
+},
+{
+"speaker": "speaker_1",
+"start": 2240.16,
+"end": 2240.2400000000002,
+"text": "well"
+},
+{
+"speaker": "speaker_0",
+"start": 2240.32,
+"end": 2240.48,
+"text": "it"
+},
+{
+"speaker": "speaker_1",
+"start": 2240.48,
+"end": 2240.64,
+"text": "is"
+},
+{
+"speaker": "speaker_0",
+"start": 2240.8,
+"end": 2260.88,
+"text": "it is I think you just address that with advertising you associate the name with the individual product that it is and that does the work for you obviously it will have a logo on it just like everything but everything else has a logo on it the point is that it's got to send out somehow differently but I think it does without that so I'm not worried about that"
+},
+{
+"speaker": "speaker_1",
+"start": 2261.52,
+"end": 2268.2400000000002,
+"text": "did we I know at the last meeting we spoke about a beeper I think that was you talked about a beeper for location have we just rejected that in period of voice recognition"
+},
+{
+"speaker": "speaker_0",
+"start": 2268.88,
+"end": 2269.52,
+"text": "depending on how"
+},
+{
+"speaker": "speaker_0",
+"start": 2271.92,
+"end": 2276.0,
+"text": "we've got this memo saying that it's something that the company's looking into so"
+},
+{
+"speaker": "speaker_0",
+"start": 2278.32,
+"end": 2293.6,
+"text": "that seems to make sense but if it turns out that it's hugely expensive we'd have to cut down somewhere else then it's worth thinking about but I think we'll find out more about cost afterwards right I'm going to wrap it up there"
+},
+{
+"speaker": "speaker_0",
+"start": 2296.16,
+"end": 2297.76,
+"text": "we've got our end meeting now"
+},
+{
+"speaker": "speaker_0",
+"start": 2305.12,
+"end": 2312.96,
+"text": "so I think we've probably got it says closing we have 40 minutes so I think we've probably got about that time before we come back"
+},
+{
+"speaker": "speaker_3",
+"start": 2314.24,
+"end": 2314.48,
+"text": "it's"
+},
+{
+"speaker": "speaker_0",
+"start": 2314.48,
+"end": 2320.96,
+"text": "either that or we only had 40 minutes to discuss what we just discussed and don't know how long that took even"
+},
+{
+"speaker": "speaker_3",
+"start": 2321.76,
+"end": 2323.68,
+"text": "I think we're pretty going in a clear direction"
+},
+{
+"speaker": "speaker_0",
+"start": 2325.92,
+"end": 2326.96,
+"text": "is everyone happy"
+},
+{
+"speaker": "speaker_3",
+"start": 2328.48,
+"end": 2329.2000000000003,
+"text": "lunch was good"
+},
+{
+"speaker": "speaker_0",
+"start": 2331.36,
+"end": 2331.6,
+"text": "okay"
+},
+{
+"speaker": "speaker_3",
+"start": 2333.68,
+"end": 2333.76,
+"text": "so"
+}
+]

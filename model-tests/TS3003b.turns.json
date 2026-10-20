@@ -1,0 +1,1742 @@
+[
+{
+"speaker": "speaker_1",
+"start": 57.6,
+"end": 59.04,
+"text": "Everybody found his place"
+},
+{
+"speaker": "speaker_0",
+"start": 59.36,
+"end": 62.08,
+"text": "again? Yeah. That's nice."
+},
+{
+"speaker": "speaker_1",
+"start": 64.8,
+"end": 68.32000000000001,
+"text": "This is our second meeting and"
+},
+{
+"speaker": "speaker_0",
+"start": 69.6,
+"end": 70.88,
+"text": "stuff failing."
+},
+{
+"speaker": "speaker_1",
+"start": 71.84,
+"end": 76.8,
+"text": "Yeah. And now we're going into the functional design."
+},
+{
+"speaker": "speaker_1",
+"start": 78.88,
+"end": 81.84,
+"text": "Important thing of this phase is that we're going to"
+},
+{
+"speaker": "speaker_1",
+"start": 84.4,
+"end": 98.56,
+"text": "try to get an agreement about the user requirements, technical function design and the working design so that we can move on to the second phase. But first this phase."
+},
+{
+"speaker": "speaker_1",
+"start": 100.88,
+"end": 107.68,
+"text": "First announcement. There is a little adaptation in the air conditioning system. So"
+},
+{
+"speaker": "speaker_1",
+"start": 109.76,
+"end": 115.12,
+"text": "there's our ghost mouse again. That means that you can have a"
+},
+{
+"speaker": "speaker_1",
+"start": 116.88,
+"end": 119.44,
+"text": "little trouble with the air conditioning. That's because of this."
+},
+{
+"speaker": "speaker_1",
+"start": 121.6,
+"end": 132.64000000000001,
+"text": "That's in Wing C and E. So it should be over in a couple of days. It's going to be cold anyway, so I don't think you're going to move it."
+},
+{
+"speaker": "speaker_2",
+"start": 132.96,
+"end": 133.12,
+"text": "No."
+},
+{
+"speaker": "speaker_1",
+"start": 134.32,
+"end": 144.64000000000001,
+"text": "Then our agenda. First the opening. This time I will take the minutes. You're going to have a presentation, all of you."
+},
+{
+"speaker": "speaker_1",
+"start": 146.56,
+"end": 149.04,
+"text": "And we've got 40 minutes for the whole"
+},
+{
+"speaker": "speaker_1",
+"start": 151.76,
+"end": 178.4,
+"text": "presentations. So I suggest we take about seven minutes per presentation and then we can have a little discussion about the new project requirements which have been sent to me. And then a decision on the control functions, which you want to include, those, which we want to include. We've got 40 minutes for all of it, so I suggest let's start with the first presentation."
+},
+{
+"speaker": "speaker_1",
+"start": 180.16,
+"end": 181.6,
+"text": "Who wants to be first?"
+},
+{
+"speaker": "speaker_0",
+"start": 182.56,
+"end": 183.6,
+"text": "I think I'll go first."
+},
+{
+"speaker": "speaker_1",
+"start": 183.92,
+"end": 184.24,
+"text": "Okay."
+},
+{
+"speaker": "speaker_1",
+"start": 185.84,
+"end": 186.08,
+"text": "So"
+},
+{
+"speaker": "speaker_1",
+"start": 188.16,
+"end": 189.28,
+"text": "maybe it's easy if you"
+},
+{
+"speaker": "speaker_1",
+"start": 191.12,
+"end": 197.76,
+"text": "think you will tell in your presentation as well, just which function you have and what you're going to talk about."
+},
+{
+"speaker": "speaker_0",
+"start": 206.48,
+"end": 211.28,
+"text": "Okay, my name is Frank Fampole. I'm a market expert. You already knew that."
+},
+{
+"speaker": "speaker_0",
+"start": 212.88,
+"end": 214.08,
+"text": "I've done some research."
+},
+{
+"speaker": "speaker_0",
+"start": 215.68,
+"end": 237.28,
+"text": "I've been doing research in a usability lab where we observed users operating remote controls. We let them fill out a questionnaire. We had 100 of these test subjects. In addition, we did some market research. See what the market consists of, what ages are controlled."
+},
+{
+"speaker": "speaker_0",
+"start": 238.88,
+"end": 273.6,
+"text": "Well, these are three quite astonishing results, I thought. Remotes are being considered ugly. 75% of the people questioned indicated that they thought their remote was ugly. And an additional 80% indicated that it would spend more money on a fancy-looking remote control. So in addition, remotes were not very functional. 50% of the people indicated they only used about 10% of the buttons on a remote control."
+},
+{
+"speaker": "speaker_0",
+"start": 275.12,
+"end": 283.12,
+"text": "And 50% of the people indicated that the remote tended to get lost in their room. So some things."
+},
+{
+"speaker": "speaker_0",
+"start": 285.28,
+"end": 302.40000000000003,
+"text": "Then we did some research to do the most relevant functions. Channel selection and volume selection both got a 10 on a scale of 1 to 10 for relevancy. The power button got a 9 and teletext got a 6.5. So these are the most"
+},
+{
+"speaker": "speaker_0",
+"start": 304.24,
+"end": 321.12,
+"text": "important functions of a remote control. And then there are some one-time use functions, that's what I like to call them. There are audio settings, video settings, and channel settings buttons, which are not really used very frequently, but are still considered to be of some importance."
+},
+{
+"speaker": "speaker_0",
+"start": 322.96,
+"end": 329.92,
+"text": "Channel selection was also indicated to be used very frequently, 168 times per hour."
+},
+{
+"speaker": "speaker_0",
+"start": 332.08,
+"end": 334.64,
+"text": "And these are the, this is the market."
+},
+{
+"speaker": "speaker_0",
+"start": 336.16,
+"end": 341.04,
+"text": "60% of the market consists of users between the ages 16 and 46."
+},
+{
+"speaker": "speaker_0",
+"start": 344.0,
+"end": 356.96,
+"text": "The main characteristic of this group is that they're very critical under remote control. They like to use new functions, but they also are very critical. They won't spend their money very easily. So"
+},
+{
+"speaker": "speaker_0",
+"start": 358.48,
+"end": 370.72,
+"text": "the users of 46 to 65 years, they make up 40% of the market. They're not really very interested in features, but they do tend to spend their money a lot easier."
+},
+{
+"speaker": "speaker_0",
+"start": 375.28,
+"end": 377.36,
+"text": "Well, I think this indicates for our"
+},
+{
+"speaker": "speaker_0",
+"start": 379.28,
+"end": 399.44,
+"text": "design. I think we should make a remote for the future. And this means we would have to focus on the ages 16 to 45. This also makes up most the biggest part of the market, so that would also be where our main profit would be gettable."
+},
+{
+"speaker": "speaker_0",
+"start": 401.28,
+"end": 404.0,
+"text": "This would mean we would have to make a fancy design."
+},
+{
+"speaker": "speaker_0",
+"start": 406.48,
+"end": 416.08,
+"text": "The results also indicated that about one quarter of the people questioned thought that the remote control caused RSI."
+},
+{
+"speaker": "speaker_0",
+"start": 418.08,
+"end": 467.68,
+"text": "This is certainly something to take into account. And 34% thought that it was hard to learn how to operate a new control, remote control. So these are two factors that I think should be included in the design. Besides, of course, that the remote must look very nice. Functionality. As a lot of people indicated, they only use about 10% of the buttons. I think we should make very few buttons. This will also be beneficial to the design of the remote. I think the most frequently used buttons should be emphasized, especially the channel selection and audio selection buttons, because they're used most and so they should be robust. They shouldn't break down easily."
+},
+{
+"speaker": "speaker_0",
+"start": 471.6,
+"end": 474.8,
+"text": "Then, as a lot of people indicated that their"
+},
+{
+"speaker": "speaker_0",
+"start": 476.4,
+"end": 506.16,
+"text": "remote got lost in the room, it might be, and I say it might be because it would certainly boost the production costs a lot, but it might be a good idea to make a docking station. This could get a button in it which would send a signal to the remote, which would then beep, so you know where it is in the room. And in addition to this, it could recharge the batteries in the remote if you put it in. Then,"
+},
+{
+"speaker": "speaker_0",
+"start": 507.76,
+"end": 517.76,
+"text": "surprisingly, a great deal of people indicated that an L C D screen in the remote control would be preferred. This was"
+},
+{
+"speaker": "speaker_0",
+"start": 519.44,
+"end": 536.4,
+"text": "mostly people in the age of 16 to 25, but up till 45 it remains feasible. This would also greatly increase the production costs, but I think these are just some small factors we could consider."
+},
+{
+"speaker": "speaker_3",
+"start": 538.0,
+"end": 538.16,
+"text": "Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 538.56,
+"end": 539.44,
+"text": "That would be all."
+},
+{
+"speaker": "speaker_3",
+"start": 540.08,
+"end": 540.8,
+"text": "Thank you."
+},
+{
+"speaker": "speaker_1",
+"start": 542.0,
+"end": 544.0,
+"text": "Anybody have any questions"
+},
+{
+"speaker": "speaker_1",
+"start": 546.16,
+"end": 547.04,
+"text": "about functional"
+},
+{
+"speaker": "speaker_2",
+"start": 547.04,
+"end": 547.6800000000001,
+"text": "requirements?"
+},
+{
+"speaker": "speaker_1",
+"start": 548.24,
+"end": 551.84,
+"text": "Okay, that's clear. I'll take a second."
+},
+{
+"speaker": "speaker_3",
+"start": 560.88,
+"end": 563.28,
+"text": "Okay, after looking at"
+},
+{
+"speaker": "speaker_3",
+"start": 565.28,
+"end": 567.2,
+"text": "user interface of it"
+},
+{
+"speaker": "speaker_3",
+"start": 568.72,
+"end": 571.28,
+"text": "for the technical functions of it."
+},
+{
+"speaker": "speaker_1",
+"start": 574.56,
+"end": 578.0,
+"text": "Yeah, you can take your time. We got plenty of slides."
+},
+{
+"speaker": "speaker_3",
+"start": 586.72,
+"end": 592.24,
+"text": "I think we must use the general functions of the remote control."
+},
+{
+"speaker": "speaker_3",
+"start": 602.24,
+"end": 603.84,
+"text": "Not much information about it."
+},
+{
+"speaker": "speaker_3",
+"start": 605.76,
+"end": 606.96,
+"text": "About the interface."
+},
+{
+"speaker": "speaker_3",
+"start": 612.48,
+"end": 625.28,
+"text": "I've been thinking about simple manner to put a lot of functions in one remote control. So we've got a lot of devices like DVD"
+},
+{
+"speaker": "speaker_3",
+"start": 626.96,
+"end": 638.4,
+"text": "television stereo. But it must be used friendly. So you can put a lot of functions in one"
+},
+{
+"speaker": "speaker_3",
+"start": 644.96,
+"end": 646.24,
+"text": "remote control. But"
+},
+{
+"speaker": "speaker_3",
+"start": 654.72,
+"end": 670.16,
+"text": "got many functions in one remote control. But you can see this is quite simple remote control. Few buttons. But this remote control got a lot of buttons."
+},
+{
+"speaker": "speaker_3",
+"start": 672.64,
+"end": 674.48,
+"text": "People don't like it. So"
+},
+{
+"speaker": "speaker_3",
+"start": 676.48,
+"end": 678.72,
+"text": "what I was thinking about was"
+},
+{
+"speaker": "speaker_3",
+"start": 681.28,
+"end": 695.28,
+"text": "keep the general functions like the others, like the on-off button. Keep it like a red button. Everybody knows it, so you don't have to change that."
+},
+{
+"speaker": "speaker_3",
+"start": 698.88,
+"end": 707.36,
+"text": "My personal preferences. Use a display for specific functions of the different devices. So"
+},
+{
+"speaker": "speaker_3",
+"start": 709.12,
+"end": 711.28,
+"text": "what I was thinking thinking about was"
+},
+{
+"speaker": "speaker_3",
+"start": 713.44,
+"end": 714.08,
+"text": "you got"
+},
+{
+"speaker": "speaker_3",
+"start": 730.56,
+"end": 736.72,
+"text": "here the general functions like the on-off button, sound, I don't know."
+},
+{
+"speaker": "speaker_3",
+"start": 738.8,
+"end": 744.72,
+"text": "Here you've got a kind of a display. This is a touch screen. So"
+},
+{
+"speaker": "speaker_3",
+"start": 746.4,
+"end": 750.5600000000001,
+"text": "you've got the general functions of the device for the DVD player."
+},
+{
+"speaker": "speaker_3",
+"start": 759.92,
+"end": 773.84,
+"text": "You've got here real buttons for selecting a device. So this button is for DVD or so for every device you've got"
+},
+{
+"speaker": "speaker_3",
+"start": 776.96,
+"end": 789.44,
+"text": "a part display of buttons. So you never got all the buttons on one device. So that's my idea about it."
+},
+{
+"speaker": "speaker_3",
+"start": 799.76,
+"end": 804.32,
+"text": "And the buttons, the real buttons we have to use, we better"
+},
+{
+"speaker": "speaker_3",
+"start": 806.4,
+"end": 822.96,
+"text": "use quite large buttons for everybody have to use it. So even of old people, young people. So we must keep the buttons quite simple and quite large. So"
+},
+{
+"speaker": "speaker_3",
+"start": 830.32,
+"end": 832.64,
+"text": "that was my part of it."
+},
+{
+"speaker": "speaker_1",
+"start": 832.96,
+"end": 836.08,
+"text": "Anyone has questions about the technical functions?"
+},
+{
+"speaker": "speaker_2",
+"start": 836.4,
+"end": 842.4,
+"text": "Well I think if we're gonna use a touch screen we're gonna go way above the twelve and a half euros."
+},
+{
+"speaker": "speaker_3",
+"start": 844.48,
+"end": 852.24,
+"text": "You've got uh quite uh cheap uh touch screens. Um it's uh not a corrupt or something. Uh it's just uh"
+},
+{
+"speaker": "speaker_3",
+"start": 854.16,
+"end": 855.84,
+"text": "one corner uh yeah"
+},
+{
+"speaker": "speaker_3",
+"start": 857.92,
+"end": 859.28,
+"text": "uh I've seen uh"
+},
+{
+"speaker": "speaker_3",
+"start": 860.96,
+"end": 869.2,
+"text": "something on the internet uh not today but uh a few uh weeks ago. Uh you got uh yeah quite a"
+},
+{
+"speaker": "speaker_3",
+"start": 871.52,
+"end": 876.5600000000001,
+"text": "kind of uh touch screen um it's uh for"
+},
+{
+"speaker": "speaker_3",
+"start": 878.16,
+"end": 882.32,
+"text": "uh twenty uh euros or uh less uh"
+},
+{
+"speaker": "speaker_1",
+"start": 883.04,
+"end": 883.2,
+"text": "so"
+},
+{
+"speaker": "speaker_3",
+"start": 884.32,
+"end": 885.04,
+"text": "it's possible"
+},
+{
+"speaker": "speaker_1",
+"start": 885.36,
+"end": 886.0,
+"text": "it's nice."
+},
+{
+"speaker": "speaker_0",
+"start": 886.32,
+"end": 888.32,
+"text": "Well we certainly make a fancy design."
+},
+{
+"speaker": "speaker_3",
+"start": 890.0,
+"end": 890.16,
+"text": "So"
+},
+{
+"speaker": "speaker_2",
+"start": 890.32,
+"end": 895.2,
+"text": "the it wouldn't be very robust. It's very fragile and you can get scratches on it."
+},
+{
+"speaker": "speaker_1",
+"start": 895.44,
+"end": 896.0,
+"text": "That is true."
+},
+{
+"speaker": "speaker_1",
+"start": 898.24,
+"end": 901.04,
+"text": "Maybe you can first um listen to your presentation"
+},
+{
+"speaker": "speaker_0",
+"start": 902.0,
+"end": 902.08,
+"text": "and"
+},
+{
+"speaker": "speaker_1",
+"start": 902.08,
+"end": 906.4,
+"text": "then we uh we'll have a little discussion about the requirements and uh design."
+},
+{
+"speaker": "speaker_0",
+"start": 920.0,
+"end": 921.28,
+"text": "I think it's meant to"
+},
+{
+"speaker": "speaker_2",
+"start": 923.76,
+"end": 984.08,
+"text": "okay I've got a presentation about the working design. Uh first about how it works. It's really simple of course everybody knows how the remote works. The user presses a button. The remote determines what button it is, uses the infrared to send a signal to the T V. The T V switches to the frequency or what function it is. So you've got uh the plate, got conductive discs for every button. When the user presses a button, a signal got sent, goes to the lab and transmitted transmit transmits it to the T V. It's a very simple device technical scheme. So this is a schematic overview. You've got the buttons, the power source and when a button gets pressed, goes to the chip. The chip controls the infrared bulb and perhaps a normal bulb, when you press a button you can actually see you press the button."
+},
+{
+"speaker": "speaker_2",
+"start": 985.68,
+"end": 1003.28,
+"text": "Well I think we should use default materials, simple plastics, keep the inner working simple so it's robust. I think we should focus on aesthetics, the design and the user interface because if you're going to use high-tech materials the price is going to go sky high."
+},
+{
+"speaker": "speaker_2",
+"start": 1005.76,
+"end": 1022.64,
+"text": "You only have to design a remote once and if you use high-tech materials it comes back in every product. So it's in my idea it's it's going to be smart to invest in design and not in the product itself. That's it."
+},
+{
+"speaker": "speaker_1",
+"start": 1023.2,
+"end": 1024.4,
+"text": "Okay, thank you."
+},
+{
+"speaker": "speaker_1",
+"start": 1031.04,
+"end": 1031.28,
+"text": "Okay."
+},
+{
+"speaker": "speaker_1",
+"start": 1041.76,
+"end": 1048.56,
+"text": "Okay, now I hope everybody has a little bit more insight in the functions we all have and what we're doing right now."
+},
+{
+"speaker": "speaker_1",
+"start": 1050.16,
+"end": 1057.52,
+"text": "I'm the project manager, so I'm here to mess things up and tell you some new requirements."
+},
+{
+"speaker": "speaker_1",
+"start": 1061.2,
+"end": 1101.3600000000001,
+"text": "We've got to design a remote which is only suitable for TV. That's because it will be too complex and the time to market will be too big if we want to have it for more functions. So it has to be simple. Another point is we have to skip the data text because in the world of upcoming internet we think data text is going to be a thing of the past and it's a function we don't need in our remote control."
+},
+{
+"speaker": "speaker_1",
+"start": 1102.96,
+"end": 1126.24,
+"text": "Internet is also mentioned. Just go in a function we can use. Maybe also on televisions it will be available as well. Another one is the customer is 40 plus. That's the market we have to target because we are going to develop a new product which is specially designed for the younger customers."
+},
+{
+"speaker": "speaker_1",
+"start": 1127.84,
+"end": 1148.32,
+"text": "This is a bit pity for the marketing expert because he was aiming on the younger persons. So we have to find a market which is above 40 plus but which will suit our remote control and the other way around. And we have to be very"
+},
+{
+"speaker": "speaker_1",
+"start": 1150.16,
+"end": 1172.64,
+"text": "attentive in putting the carpet image in our product. So it has to be visible in our design, in the way our device works. And we have to be very clear on this point as well. So I suggest let's have a discussion on the control functions."
+},
+{
+"speaker": "speaker_0",
+"start": 1174.88,
+"end": 1176.72,
+"text": "So is there any discussion possible about"
+},
+{
+"speaker": "speaker_1",
+"start": 1177.36,
+"end": 1177.44,
+"text": "the"
+},
+{
+"speaker": "speaker_0",
+"start": 1177.44,
+"end": 1178.32,
+"text": "requirements?"
+},
+{
+"speaker": "speaker_1",
+"start": 1179.28,
+"end": 1189.84,
+"text": "We can see if we can find a way between the functions we want to use and the market we want to reach with our product. Because"
+},
+{
+"speaker": "speaker_0",
+"start": 1190.4,
+"end": 1228.88,
+"text": "you're saying that teletext is going to be an old feature and it's not going to be used anymore anyway, pretty soon and new TVs will have internet access on them. But I think if you're targeting people of 40 plus, the chance that they will have a TV with internet access within the next like 20 years is very slim. In addition, people indicated that teletext simply was an important feature for the remote control. So I think it's pretty dumb to put no teletext feature on it. I'm pretty much against it."
+},
+{
+"speaker": "speaker_1",
+"start": 1229.52,
+"end": 1230.96,
+"text": "Against the no-teletext?"
+},
+{
+"speaker": "speaker_0",
+"start": 1231.2,
+"end": 1231.84,
+"text": "Yes."
+},
+{
+"speaker": "speaker_0",
+"start": 1235.2,
+"end": 1241.04,
+"text": "Besides that, I think the market for 40 plus is like pretty small."
+},
+{
+"speaker": "speaker_0",
+"start": 1243.28,
+"end": 1245.28,
+"text": "But if I"
+},
+{
+"speaker": "speaker_1",
+"start": 1245.28,
+"end": 1245.52,
+"text": "see"
+},
+{
+"speaker": "speaker_0",
+"start": 1245.52,
+"end": 1248.88,
+"text": "this, I think we're just gonna go for another"
+},
+{
+"speaker": "speaker_1",
+"start": 1249.52,
+"end": 1249.92,
+"text": "step."
+},
+{
+"speaker": "speaker_0",
+"start": 1250.64,
+"end": 1251.04,
+"text": "Pretty"
+},
+{
+"speaker": "speaker_1",
+"start": 1259.52,
+"end": 1290.08,
+"text": "simple buttons which are also mentioned. If we put a lot of effort in those, we can make a remote control with just two or three buttons or just a remote which is suitable for the market we want to reach because it is 40% of the market. And if you look in Holland at the whole generation of 40 plus, 50 plus, it's the biggest share of the whole population now."
+},
+{
+"speaker": "speaker_0",
+"start": 1291.04,
+"end": 1294.88,
+"text": "Yes, but it's not the biggest part of the market."
+},
+{
+"speaker": "speaker_1",
+"start": 1295.44,
+"end": 1295.6000000000001,
+"text": "And"
+},
+{
+"speaker": "speaker_0",
+"start": 1295.76,
+"end": 1307.3600000000001,
+"text": "besides that, they're not very critical, so I mean, they don't really care what the remote control is like. They'll just pretty much take the first thing they see and which looks acceptable."
+},
+{
+"speaker": "speaker_1",
+"start": 1308.64,
+"end": 1311.6000000000001,
+"text": "But don't you think that if we make a remote which is"
+},
+{
+"speaker": "speaker_1",
+"start": 1313.12,
+"end": 1326.32,
+"text": "typically made for this market, that people think from the people think that's the device I've looked for, although I didn't realize it. So let's try it."
+},
+{
+"speaker": "speaker_0",
+"start": 1326.96,
+"end": 1334.64,
+"text": "No. I think that would be the case in the 16 to 45 H category."
+},
+{
+"speaker": "speaker_0",
+"start": 1336.24,
+"end": 1346.16,
+"text": "Because they are critical and they want to have a fancy remote control. People of 40 plus, I mean, they want it to work, but"
+},
+{
+"speaker": "speaker_0",
+"start": 1348.0,
+"end": 1350.16,
+"text": "as soon as it works, it's okay with them."
+},
+{
+"speaker": "speaker_1",
+"start": 1351.68,
+"end": 1352.0,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_2",
+"start": 1352.64,
+"end": 1362.8,
+"text": "I think that if we put our marketing right, we can sell this just like, I don't know if you've heard about it in the news, the elderly mobile phone."
+},
+{
+"speaker": "speaker_1",
+"start": 1363.12,
+"end": 1364.4,
+"text": "Yeah, it's a big success."
+},
+{
+"speaker": "speaker_2",
+"start": 1364.72,
+"end": 1365.44,
+"text": "Yeah, if"
+},
+{
+"speaker": "speaker_1",
+"start": 1365.44,
+"end": 1366.32,
+"text": "we make a remote"
+},
+{
+"speaker": "speaker_2",
+"start": 1366.32,
+"end": 1373.76,
+"text": "control, just like with that idea in mind, we could make tons of money. I think. We don't have to focus"
+},
+{
+"speaker": "speaker_2",
+"start": 1375.52,
+"end": 1383.76,
+"text": "on the design then, but on functionality. We just change our focus on the project. And I think"
+},
+{
+"speaker": "speaker_2",
+"start": 1385.6,
+"end": 1386.64,
+"text": "we can sell this."
+},
+{
+"speaker": "speaker_1",
+"start": 1387.76,
+"end": 1389.3600000000001,
+"text": "I simply think"
+},
+{
+"speaker": "speaker_1",
+"start": 1393.36,
+"end": 1427.2,
+"text": "that the new products we're gonna make spec simply design are designed for younger people. So maybe we can focus ourselves on the elderly people. And I think we have to see what requirements we need for those remote controls. Because what you told us channel selection is important. Volume selection, power and tailored text."
+},
+{
+"speaker": "speaker_0",
+"start": 1427.52,
+"end": 1427.92,
+"text": "Yes."
+},
+{
+"speaker": "speaker_1",
+"start": 1428.24,
+"end": 1428.48,
+"text": "Okay."
+},
+{
+"speaker": "speaker_0",
+"start": 1430.4,
+"end": 1432.8,
+"text": "But obviously the board tends to disagree."
+},
+{
+"speaker": "speaker_1",
+"start": 1433.36,
+"end": 1435.1200000000001,
+"text": "No, we haven't voted yet."
+},
+{
+"speaker": "speaker_1",
+"start": 1437.36,
+"end": 1440.08,
+"text": "I think tailored text can be"
+},
+{
+"speaker": "speaker_1",
+"start": 1443.04,
+"end": 1459.3600000000001,
+"text": "can be a function as well, but only if it won't higher the cost. Because I don't know if it will be a lot more money to implement tailored text as well, but I don't think it will be a problem. Where is tailored"
+},
+{
+"speaker": "speaker_3",
+"start": 1459.36,
+"end": 1463.92,
+"text": "text? Deaf people need tailoretext for subtitles."
+},
+{
+"speaker": "speaker_1",
+"start": 1466.8,
+"end": 1467.1200000000001,
+"text": "I think it would"
+},
+{
+"speaker": "speaker_0",
+"start": 1467.2,
+"end": 1469.84,
+"text": "definitely be a bad idea not to include tailoretext."
+},
+{
+"speaker": "speaker_1",
+"start": 1470.56,
+"end": 1473.84,
+"text": "Is anybody really against tailoretext?"
+},
+{
+"speaker": "speaker_0",
+"start": 1474.4,
+"end": 1474.64,
+"text": "No."
+},
+{
+"speaker": "speaker_1",
+"start": 1475.6,
+"end": 1479.76,
+"text": "It's that we just keep the tailor text."
+},
+{
+"speaker": "speaker_1",
+"start": 1481.68,
+"end": 1484.96,
+"text": "I think it's a good idea as well, especially for the subtitles."
+},
+{
+"speaker": "speaker_1",
+"start": 1486.8,
+"end": 1488.0,
+"text": "Maybe we can"
+},
+{
+"speaker": "speaker_1",
+"start": 1489.52,
+"end": 1490.48,
+"text": "make that"
+},
+{
+"speaker": "speaker_1",
+"start": 1493.36,
+"end": 1511.76,
+"text": "another point of advantage in our remote control. If we make a button, for example, for big subtitles, which is instantly on the remote control for elderly people, that they can think, oh, I want to subtitle, push the button, and they get the big subtitles."
+},
+{
+"speaker": "speaker_2",
+"start": 1512.4,
+"end": 1512.56,
+"text": "That's"
+},
+{
+"speaker": "speaker_0",
+"start": 1512.72,
+"end": 1513.28,
+"text": "going to be."
+},
+{
+"speaker": "speaker_1",
+"start": 1515.52,
+"end": 1520.16,
+"text": "So I think that text can be very useful and our advantage."
+},
+{
+"speaker": "speaker_1",
+"start": 1523.2,
+"end": 1526.32,
+"text": "Functionality should be few buttons, you said?"
+},
+{
+"speaker": "speaker_0",
+"start": 1527.6,
+"end": 1528.08,
+"text": "Yes."
+},
+{
+"speaker": "speaker_1",
+"start": 1528.4,
+"end": 1532.64,
+"text": "I think that's very important. We have a few buttons."
+},
+{
+"speaker": "speaker_1",
+"start": 1535.2,
+"end": 1537.2,
+"text": "So to keep it simple."
+},
+{
+"speaker": "speaker_0",
+"start": 1537.84,
+"end": 1540.08,
+"text": "I don't think that's really an issue anymore, because..."
+},
+{
+"speaker": "speaker_0",
+"start": 1541.68,
+"end": 1543.1200000000001,
+"text": "Well, it might be."
+},
+{
+"speaker": "speaker_2",
+"start": 1544.24,
+"end": 1544.48,
+"text": "But I mean,"
+},
+{
+"speaker": "speaker_0",
+"start": 1544.88,
+"end": 1551.28,
+"text": "if it's only for T V, you're not going to need a lot of buttons anyway. You need the one to zero button,"
+},
+{
+"speaker": "speaker_2",
+"start": 1551.84,
+"end": 1552.0,
+"text": "next"
+},
+{
+"speaker": "speaker_0",
+"start": 1552.16,
+"end": 1558.16,
+"text": "channel, previous channel, volume up, volume down. And some teletext buttons, but."
+},
+{
+"speaker": "speaker_1",
+"start": 1561.92,
+"end": 1562.16,
+"text": "But"
+},
+{
+"speaker": "speaker_0",
+"start": 1562.16,
+"end": 1562.48,
+"text": "do you need"
+},
+{
+"speaker": "speaker_2",
+"start": 1563.2,
+"end": 1567.1200000000001,
+"text": "to? We can skip the display, so you don't need it."
+},
+{
+"speaker": "speaker_0",
+"start": 1567.76,
+"end": 1567.92,
+"text": "Do"
+},
+{
+"speaker": "speaker_1",
+"start": 1567.92,
+"end": 1572.72,
+"text": "you need the buttons for one, two, zero? Maybe. I think"
+},
+{
+"speaker": "speaker_2",
+"start": 1572.8,
+"end": 1572.88,
+"text": "if"
+},
+{
+"speaker": "speaker_1",
+"start": 1572.88,
+"end": 1573.1200000000001,
+"text": "you're gonna"
+},
+{
+"speaker": "speaker_0",
+"start": 1573.2,
+"end": 1576.64,
+"text": "include teletext, you do. I think many people like to use a..."
+},
+{
+"speaker": "speaker_1",
+"start": 1578.4,
+"end": 1578.72,
+"text": "If you want to"
+},
+{
+"speaker": "speaker_0",
+"start": 1578.72,
+"end": 1584.96,
+"text": "switch from channel 1 to like 35, you don't want to push the next channel button 35 times."
+},
+{
+"speaker": "speaker_1",
+"start": 1585.36,
+"end": 1591.44,
+"text": "Maybe you can implement the scroll button or a joystick. Like"
+},
+{
+"speaker": "speaker_1",
+"start": 1592.96,
+"end": 1601.1200000000001,
+"text": "there are other ways to just look. If you look at telephones, the Sony telephone has a scroll button, which is very useful in searching names."
+},
+{
+"speaker": "speaker_0",
+"start": 1603.12,
+"end": 1604.56,
+"text": "That is true, but"
+},
+{
+"speaker": "speaker_0",
+"start": 1606.8,
+"end": 1622.24,
+"text": "I don't think there are many TVs that can switch channels that fast. And so you would need like the TV would need a function where you can actually view all channels and scroll through it. And I don't know if many channels would"
+},
+{
+"speaker": "speaker_0",
+"start": 1624.08,
+"end": 1626.0,
+"text": "do have many TVs on that."
+},
+{
+"speaker": "speaker_2",
+"start": 1626.88,
+"end": 1635.04,
+"text": "And besides that, if we're gonna focus on elderly people, they'll have to adapt. They're not used to using scroll buttons."
+},
+{
+"speaker": "speaker_1",
+"start": 1635.6,
+"end": 1635.76,
+"text": "So"
+},
+{
+"speaker": "speaker_2",
+"start": 1636.08,
+"end": 1638.88,
+"text": "perhaps we should stick to the basic layout."
+},
+{
+"speaker": "speaker_1",
+"start": 1640.16,
+"end": 1653.8400000000001,
+"text": "Just the numbers there. Yeah, we can see how much buttons there are going to be on the display, and if it's too much, we can reconsider it. But I think there won't be very much buttons. Or there don't..."
+},
+{
+"speaker": "speaker_0",
+"start": 1655.04,
+"end": 1661.1200000000001,
+"text": "I think if you're gonna make a remote control only to operate a T V, there's not much you can gain on"
+},
+{
+"speaker": "speaker_0",
+"start": 1662.64,
+"end": 1675.76,
+"text": "having as few buttons as possible. Because I think there are pretty many remote controls that can only operate a T V, which already only have the minimum number of buttons. I don't think there's much to be gained in that area."
+},
+{
+"speaker": "speaker_1",
+"start": 1676.08,
+"end": 1676.32,
+"text": "The"
+},
+{
+"speaker": "speaker_0",
+"start": 1676.32,
+"end": 1676.56,
+"text": "number"
+},
+{
+"speaker": "speaker_1",
+"start": 1676.56,
+"end": 1690.32,
+"text": "of buttons. I think it's very important in the design. You can make a very fancy design with putting the buttons in the right places. If you have less buttons, you can do a lot more with it."
+},
+{
+"speaker": "speaker_0",
+"start": 1691.52,
+"end": 1700.32,
+"text": "That is true, but I think there's simply not much to gain on the competition when you're making a remote control only for to operate only the T V."
+},
+{
+"speaker": "speaker_0",
+"start": 1702.96,
+"end": 1703.04,
+"text": "If"
+},
+{
+"speaker": "speaker_1",
+"start": 1703.04,
+"end": 1703.2,
+"text": "you"
+},
+{
+"speaker": "speaker_0",
+"start": 1703.2,
+"end": 1715.6000000000001,
+"text": "have a remote control only to operate a T V, there's simply not a lot of buttons required. There's not a lot of functions required, so most existing remote controls simply don't have a lot of buttons either."
+},
+{
+"speaker": "speaker_1",
+"start": 1717.68,
+"end": 1717.92,
+"text": "So I"
+},
+{
+"speaker": "speaker_0",
+"start": 1717.92,
+"end": 1722.16,
+"text": "think it would be very hard to actually gain on the competition here."
+},
+{
+"speaker": "speaker_0",
+"start": 1723.84,
+"end": 1726.56,
+"text": "That would cause a big marketing"
+},
+{
+"speaker": "speaker_0",
+"start": 1728.08,
+"end": 1729.2,
+"text": "expedition."
+},
+{
+"speaker": "speaker_1",
+"start": 1729.76,
+"end": 1730.24,
+"text": "That's right."
+},
+{
+"speaker": "speaker_0",
+"start": 1730.56,
+"end": 1736.8,
+"text": "Which was one of the arguments to make it only for the TV because we didn't have the time to market a lot."
+},
+{
+"speaker": "speaker_1",
+"start": 1737.92,
+"end": 1744.56,
+"text": "So you suggest we could better focus on, for example, the docking station."
+},
+{
+"speaker": "speaker_1",
+"start": 1746.08,
+"end": 1747.68,
+"text": "Like other functions."
+},
+{
+"speaker": "speaker_0",
+"start": 1749.6,
+"end": 1750.24,
+"text": "Instead of"
+},
+{
+"speaker": "speaker_1",
+"start": 1751.12,
+"end": 1752.24,
+"text": "less buttons."
+},
+{
+"speaker": "speaker_0",
+"start": 1752.88,
+"end": 1761.76,
+"text": "Well, yeah, I think, I mean, we obviously need a good way to position all the buttons, but I don't think we should spend very much time in that."
+},
+{
+"speaker": "speaker_1",
+"start": 1764.4,
+"end": 1766.48,
+"text": "Do you think the docking station will"
+},
+{
+"speaker": "speaker_1",
+"start": 1768.56,
+"end": 1771.52,
+"text": "is allowed in the budget we have?"
+},
+{
+"speaker": "speaker_0",
+"start": 1772.48,
+"end": 1773.76,
+"text": "It should be possible, yes."
+},
+{
+"speaker": "speaker_1",
+"start": 1774.48,
+"end": 1774.72,
+"text": "It's"
+},
+{
+"speaker": "speaker_0",
+"start": 1774.72,
+"end": 1775.76,
+"text": "not too fancy."
+},
+{
+"speaker": "speaker_2",
+"start": 1776.08,
+"end": 1776.32,
+"text": "And"
+},
+{
+"speaker": "speaker_1",
+"start": 1776.32,
+"end": 1776.56,
+"text": "if"
+},
+{
+"speaker": "speaker_0",
+"start": 1776.56,
+"end": 1778.8,
+"text": "the remote stays rather small, it should be possible."
+},
+{
+"speaker": "speaker_1",
+"start": 1779.12,
+"end": 1780.88,
+"text": "Yeah. Because I think that's"
+},
+{
+"speaker": "speaker_1",
+"start": 1782.72,
+"end": 1787.68,
+"text": "a good advantage point as well if we have a fancy looking docking station or"
+},
+{
+"speaker": "speaker_1",
+"start": 1790.0,
+"end": 1790.56,
+"text": "something like that."
+},
+{
+"speaker": "speaker_1",
+"start": 1792.16,
+"end": 1796.0,
+"text": "That's a nice requirement. Docking station."
+},
+{
+"speaker": "speaker_0",
+"start": 1796.96,
+"end": 1799.2,
+"text": "So we're just gonna focus on the extras?"
+},
+{
+"speaker": "speaker_1",
+"start": 1800.48,
+"end": 1801.28,
+"text": "I think so."
+},
+{
+"speaker": "speaker_0",
+"start": 1801.84,
+"end": 1810.8,
+"text": "Yeah, I think maybe we should do some research into what other people like to have in a like to have extra in remote control."
+},
+{
+"speaker": "speaker_1",
+"start": 1811.12,
+"end": 1812.4,
+"text": "That's a good point."
+},
+{
+"speaker": "speaker_1",
+"start": 1816.4,
+"end": 1819.04,
+"text": "You said they easily get lost as well?"
+},
+{
+"speaker": "speaker_0",
+"start": 1819.92,
+"end": 1822.56,
+"text": "Yes, well 50% of the people indicated that"
+},
+{
+"speaker": "speaker_1",
+"start": 1822.64,
+"end": 1823.1200000000001,
+"text": "remote"
+},
+{
+"speaker": "speaker_0",
+"start": 1823.12,
+"end": 1824.4,
+"text": "control tended to get lost."
+},
+{
+"speaker": "speaker_1",
+"start": 1824.72,
+"end": 1829.3600000000001,
+"text": "So maybe we should implement the audio side or something."
+},
+{
+"speaker": "speaker_0",
+"start": 1829.68,
+"end": 1830.88,
+"text": "Yeah, that was what I suggested."
+},
+{
+"speaker": "speaker_1",
+"start": 1831.12,
+"end": 1832.0,
+"text": "Yeah. Like with your"
+},
+{
+"speaker": "speaker_0",
+"start": 1832.24,
+"end": 1832.72,
+"text": "keychain,"
+},
+{
+"speaker": "speaker_2",
+"start": 1832.8,
+"end": 1833.04,
+"text": "if you"
+},
+{
+"speaker": "speaker_1",
+"start": 1833.04,
+"end": 1833.44,
+"text": "whistle,"
+},
+{
+"speaker": "speaker_2",
+"start": 1833.52,
+"end": 1833.76,
+"text": "it goes."
+},
+{
+"speaker": "speaker_0",
+"start": 1834.8,
+"end": 1842.56,
+"text": "You have some phones too. Which you have a docking station. And you just press a button and the phone goes ringing."
+},
+{
+"speaker": "speaker_1",
+"start": 1842.8,
+"end": 1842.96,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 1843.2,
+"end": 1843.52,
+"text": "So you"
+},
+{
+"speaker": "speaker_1",
+"start": 1843.52,
+"end": 1843.76,
+"text": "know where"
+},
+{
+"speaker": "speaker_0",
+"start": 1843.76,
+"end": 1843.8400000000001,
+"text": "it is."
+},
+{
+"speaker": "speaker_1",
+"start": 1844.16,
+"end": 1848.72,
+"text": "Audio signal could be possible as well. I think it's not too expensive."
+},
+{
+"speaker": "speaker_1",
+"start": 1852.16,
+"end": 1857.2,
+"text": "Another point is the L C D screen."
+},
+{
+"speaker": "speaker_1",
+"start": 1860.0,
+"end": 1864.88,
+"text": "I don't know if that will raise the cost too much."
+},
+{
+"speaker": "speaker_2",
+"start": 1866.56,
+"end": 1869.76,
+"text": "I think we'll have to choose between the docking station or the screen because."
+},
+{
+"speaker": "speaker_1",
+"start": 1870.8,
+"end": 1871.3600000000001,
+"text": "Yeah, so"
+},
+{
+"speaker": "speaker_2",
+"start": 1872.24,
+"end": 1872.56,
+"text": "much."
+},
+{
+"speaker": "speaker_0",
+"start": 1873.2,
+"end": 1891.2,
+"text": "I think since a lot of people indicated that a new remote control was hard to learn and we're focusing on elderly people here which tend to have a hard time understanding new devices. It might be a good idea to have just a little screen on it which would explain a button if you press it, which would tell you what it does."
+},
+{
+"speaker": "speaker_1",
+"start": 1892.16,
+"end": 1892.48,
+"text": "Yeah."
+},
+{
+"speaker": "speaker_0",
+"start": 1893.04,
+"end": 1897.3600000000001,
+"text": "And it wouldn't have to be touch screen or a very expensive screen, but"
+},
+{
+"speaker": "speaker_1",
+"start": 1898.88,
+"end": 1901.76,
+"text": "just the L C D or just a normal screen."
+},
+{
+"speaker": "speaker_0",
+"start": 1902.4,
+"end": 1904.4,
+"text": "Just a small screen to"
+},
+{
+"speaker": "speaker_1",
+"start": 1905.36,
+"end": 1907.04,
+"text": "some extra info, if you"
+},
+{
+"speaker": "speaker_0",
+"start": 1907.28,
+"end": 1907.52,
+"text": "like."
+},
+{
+"speaker": "speaker_1",
+"start": 1908.96,
+"end": 1910.8,
+"text": "Yeah, I think that's a good idea as well."
+},
+{
+"speaker": "speaker_0",
+"start": 1911.6,
+"end": 1913.2,
+"text": "But I don't know if that would"
+},
+{
+"speaker": "speaker_0",
+"start": 1915.76,
+"end": 1916.56,
+"text": "fit into the"
+},
+{
+"speaker": "speaker_0",
+"start": 1919.84,
+"end": 1920.32,
+"text": "construct"
+},
+{
+"speaker": "speaker_1",
+"start": 1924.8,
+"end": 1925.76,
+"text": "button info."
+},
+{
+"speaker": "speaker_1",
+"start": 1929.36,
+"end": 1931.6000000000001,
+"text": "I think it should be possible also."
+},
+{
+"speaker": "speaker_1",
+"start": 1934.8,
+"end": 1936.4,
+"text": "Let's see, what did we say?"
+},
+{
+"speaker": "speaker_1",
+"start": 1938.0,
+"end": 1946.48,
+"text": "More. Should be fancy to fancy design, easy to learn. Few buttons, we talked about that. Talking station L C D"
+},
+{
+"speaker": "speaker_1",
+"start": 1949.12,
+"end": 1950.48,
+"text": "general functions"
+},
+{
+"speaker": "speaker_1",
+"start": 1952.64,
+"end": 1952.96,
+"text": "yeah"
+},
+{
+"speaker": "speaker_1",
+"start": 1960.56,
+"end": 1975.2,
+"text": "and default materials I think that's a good idea as well because elderly people don't mind if it's a titanium cover or just a plastic one so"
+},
+{
+"speaker": "speaker_2",
+"start": 1975.92,
+"end": 1976.0,
+"text": "it"
+},
+{
+"speaker": "speaker_1",
+"start": 1976.0,
+"end": 1977.44,
+"text": "doesn't really matter so"
+},
+{
+"speaker": "speaker_1",
+"start": 1979.04,
+"end": 1979.3600000000001,
+"text": "I think"
+},
+{
+"speaker": "speaker_0",
+"start": 1979.52,
+"end": 1986.4,
+"text": "probably elderly people would be a little bit more careful with their remote controls than youngsters."
+},
+{
+"speaker": "speaker_1",
+"start": 1989.2,
+"end": 2006.88,
+"text": "Let's specify the target group. Are we talking about elderly, elderly people or people from 40 to 80? Because I think what we're going to design now is for people above 60, maybe."
+},
+{
+"speaker": "speaker_1",
+"start": 2010.64,
+"end": 2022.88,
+"text": "What do we want if we wanna profilate us with for example the telephone for elderly people we can target the real elderly people?"
+},
+{
+"speaker": "speaker_0",
+"start": 2024.24,
+"end": 2032.56,
+"text": "I think there would be if we should do something like that it would be I think it would be really good for the image of the company."
+},
+{
+"speaker": "speaker_1",
+"start": 2033.2,
+"end": 2033.52,
+"text": "Yeah"
+},
+{
+"speaker": "speaker_0",
+"start": 2033.84,
+"end": 2037.28,
+"text": "and I think I think there would be a good market for it."
+},
+{
+"speaker": "speaker_1",
+"start": 2037.92,
+"end": 2038.8,
+"text": "So that's the way"
+},
+{
+"speaker": "speaker_0",
+"start": 2039.12,
+"end": 2042.16,
+"text": "to really bring an innovative product."
+},
+{
+"speaker": "speaker_1",
+"start": 2042.48,
+"end": 2045.04,
+"text": "And you're talking about 62, 80 for example."
+},
+{
+"speaker": "speaker_0",
+"start": 2045.36,
+"end": 2046.32,
+"text": "Yeah, to really"
+},
+{
+"speaker": "speaker_0",
+"start": 2048.8,
+"end": 2052.16,
+"text": "60. I'd have to look into that a little more."
+},
+{
+"speaker": "speaker_1",
+"start": 2052.48,
+"end": 2056.8,
+"text": "Okay. And different cultures? Probably."
+},
+{
+"speaker": "speaker_2",
+"start": 2058.32,
+"end": 2060.8,
+"text": "I don't think they have different television sets"
+},
+{
+"speaker": "speaker_1",
+"start": 2062.32,
+"end": 2062.56,
+"text": "in"
+},
+{
+"speaker": "speaker_2",
+"start": 2062.88,
+"end": 2063.84,
+"text": "every country."
+},
+{
+"speaker": "speaker_1",
+"start": 2064.16,
+"end": 2064.4,
+"text": "No."
+},
+{
+"speaker": "speaker_1",
+"start": 2067.6,
+"end": 2069.28,
+"text": "We've got five minutes left, I guess."
+},
+{
+"speaker": "speaker_0",
+"start": 2070.8,
+"end": 2081.36,
+"text": "And with the little screen in it which explains the buttons, you could I think we it would be a lot easier to adapt it to different cultures."
+},
+{
+"speaker": "speaker_1",
+"start": 2081.68,
+"end": 2082.96,
+"text": "Yeah, in different languages."
+},
+{
+"speaker": "speaker_1",
+"start": 2085.12,
+"end": 2092.64,
+"text": "Or you have to put a language button in it, but that will be a bit unnecessary. It's better to put it on different markets."
+},
+{
+"speaker": "speaker_1",
+"start": 2095.92,
+"end": 2103.2,
+"text": "So that's the target. Then a few small things."
+},
+{
+"speaker": "speaker_1",
+"start": 2106.72,
+"end": 2111.84,
+"text": "Okay. I will put the minutes in the project document folder."
+},
+{
+"speaker": "speaker_1",
+"start": 2114.16,
+"end": 2146.48,
+"text": "What we're going to do for the next meeting is the industrial designer will do the component concept. User interface designer the user interface concept and trend watching. So just keep in mind the things we've said about the target group requirements and the trends which are going on. And specific instructions will be sent to you by a personal coach. So I thank you for this meeting. And I think we have a lunch break now."
+},
+{
+"speaker": "speaker_0",
+"start": 2147.04,
+"end": 2147.52,
+"text": "That's good."
+},
+{
+"speaker": "speaker_1",
+"start": 2148.24,
+"end": 2148.96,
+"text": "That's a good thing."
+},
+{
+"speaker": "speaker_0",
+"start": 2168.16,
+"end": 2172.48,
+"text": "No, we're not allowed to talk about it. Oh my god. That's going to be very"
+},
+{
+"speaker": "speaker_0",
+"start": 2174.0,
+"end": 2174.08,
+"text": "important."
+}
+]

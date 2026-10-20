@@ -1,0 +1,22 @@
+DIAR EN2002b 30min  DER 32.7% (collar .25: 30.0%)  miss 24.8 fa 4.0 conf 3.8  spk 4->4  5.7s
+DIAR TS3003a 25min  DER 41.9% (collar .25: 39.0%)  miss 35.1 fa 1.7 conf 5.2  spk 4->4  3.9s
+DIAR ES2004c 39min  DER 25.4% (collar .25: 22.7%)  miss 16.7 fa 1.7 conf 7.0  spk 4->4  6.0s
+DIAR ES2004b 39min  DER 46.3% (collar .25: 44.6%)  miss 21.0 fa 2.3 conf 23.0  spk 4->4  6.0s
+DIAR TS3003b 37min  DER 26.2% (collar .25: 23.5%)  miss 23.3 fa 1.2 conf 1.8  spk 4->4  5.7s
+DIAR IS1009a 14min  DER 24.9% (collar .25: 20.7%)  miss 10.6 fa 10.4 conf 4.0  spk 4->4  2.2s
+DIAR OVERALL {'der': 33.3, 'der_collar25': 30.7, 'rtf': 0.0027}
+ASR parakeet-tdt-0.6b-v2 EN2002b  WER 39.8%  (5844 ref words, 4248 hyp)  4.7s
+ASR parakeet-tdt-0.6b-v2 TS3003a  WER 28.4%  (2380 ref words, 1957 hyp)  3.1s
+ASR parakeet-tdt-0.6b-v2 ES2004c  WER 22.9%  (6815 ref words, 5729 hyp)  5.9s
+ASR parakeet-tdt-0.6b-v2 ES2004b  WER 20.6%  (6531 ref words, 5735 hyp)  6.0s
+ASR parakeet-tdt-0.6b-v2 TS3003b  WER 20.3%  (4493 ref words, 3966 hyp)  5.3s
+ASR parakeet-tdt-0.6b-v2 IS1009a  WER 27.1%  (1893 ref words, 1533 hyp)  1.9s
+ASR OVERALL parakeet-tdt-0.6b-v2 {'wer': 26.2, 'per_meeting': {'EN2002b': 39.8, 'TS3003a': 28.4, 'ES2004c': 22.9, 'ES2004b': 20.6, 'TS3003b': 20.3, 'IS1009a': 27.1}, 'rtf': 0.0024, 'gpu_gb': 12.9}
+ASR parakeet-rnnt-1.1b EN2002b  WER 67.7%  (5844 ref words, 2278 hyp)  6.4s
+ASR parakeet-rnnt-1.1b TS3003a  WER 66.5%  (2380 ref words, 892 hyp)  5.1s
+ASR parakeet-rnnt-1.1b ES2004c  WER 45.7%  (6815 ref words, 4039 hyp)  8.8s
+ASR parakeet-rnnt-1.1b ES2004b  WER 38.2%  (6531 ref words, 4462 hyp)  9.4s
+ASR parakeet-rnnt-1.1b TS3003b  WER 37.3%  (4493 ref words, 3216 hyp)  8.3s
+ASR parakeet-rnnt-1.1b IS1009a  WER 46.4%  (1893 ref words, 1137 hyp)  3.0s
+ASR OVERALL parakeet-rnnt-1.1b {'wer': 49.0, 'per_meeting': {'EN2002b': 67.7, 'TS3003a': 66.5, 'ES2004c': 45.7, 'ES2004b': 38.2, 'TS3003b': 37.3, 'IS1009a': 46.4}, 'rtf': 0.0037, 'gpu_gb': 11.5}
+DONE

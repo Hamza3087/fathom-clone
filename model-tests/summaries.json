@@ -1,0 +1,403 @@
+{
+ "EN2002b": {
+  "prompt_tokens": 10581,
+  "summary_sec": 27.7,
+  "ask_sec": 8.4,
+  "valid_json": true,
+  "summary": {
+   "title": "Project Status and Report Structure Review",
+   "overview": "The team reviewed the current draft of their project report, discussing the inclusion of prototypes, screenshots, and timeline adjustments. They agreed to remove the section on removing disfluencies from the body of files as it is not feasible within the current scope. The group also debated the best approach for displaying search results and handling XML versus text file outputs.",
+   "key_points": [
+    "The team decided to skip the task of removing disfluencies from the body of files due to lack of time and technical approachability.",
+    "Discussion arose regarding whether to display search results (topics, summaries, transcripts) in separate panes or a single pane with color coding.",
+    "The team agreed that ordering results by meeting makes the most sense for the user experience.",
+    "There was a debate on whether to output processed transcripts as XML or plain text files, with a preference for using existing Night Object Model tools over complex Java XML processing.",
+    "Future work should be explicitly listed in a dedicated section, potentially using bullet points to maintain continuity.",
+    "Speaker characterization is expected to be completed soon, though the scope might be reduced."
+   ],
+   "decisions": [
+    "Remove the section on removing disfluencies from the report as it is not a priority.",
+    "Include a dedicated section for milestones and future work, using bullet points for clarity.",
+    "Output processed transcripts as text files rather than XML to simplify the process, unless performance issues arise.",
+    "Design the search results interface to order items by meeting, potentially using color coding to distinguish result types.",
+    "Combine individual summaries into a single document for final review before distribution."
+   ],
+   "action_items": [
+    {
+     "text": "Review individual summaries and combine them into a single document for final review.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 2842
+    },
+    {
+     "text": "Contact Jonathan and Gene to inquire about their development tools and object models for higher-level integration.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 2431
+    },
+    {
+     "text": "Implement the logic to selectively print segments based on criteria (e.g., proper words vs. disfluencies) for the text file output.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 2245
+    },
+    {
+     "text": "Finalize the report structure including the timeline and future work sections.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 343
+    }
+   ]
+  },
+  "ask": "{\n\"answer\": \"The group decided to skip removing disfluencies from the body of files because they did not know how to approach it and it was not a priority given time constraints [5:38-5:52]. Speaker_1 initially suggested skipping it, while Speaker_3 initially argued it should be included as a 'future work' item or a good conclusion [5:38-6:08], but ultimately agreed to skip it to focus on main goals [6:25-6:34].\"\n}",
+  "human": null
+ },
+ "ES2004b": {
+  "prompt_tokens": 10367,
+  "summary_sec": 25.1,
+  "ask_sec": 8.8,
+  "valid_json": true,
+  "summary": {
+   "title": "Universal TV Remote Control Design Strategy",
+   "overview": "The team reviewed previous decisions regarding a universal, accessible remote control and discussed new project requirements, including the exclusion of teletext and a focus on TV/video only. Marketing presented usability lab findings indicating users prefer simple, stylish designs over complex controls, while engineering proposed a flip-top mechanism to separate basic and advanced functions. The group debated design aesthetics, battery options, and strategies to reduce repetitive strain injury.",
+   "key_points": [
+    "New project requirements exclude teletext, limiting the device to TV and video functions only.",
+    "Market research shows 75% of users find current remotes ugly and are willing to pay more for a fashionable design.",
+    "A flip-top design is proposed to place frequently used buttons on top and complex programming features below.",
+    "Users frequently lose remotes, prompting ideas for anti-loss features like beeping or distinctive shapes.",
+    "Rechargeable batteries with a docking station are suggested to reduce cost and environmental impact.",
+    "Design must balance corporate image with ergonomic needs to prevent repetitive strain injury."
+   ],
+   "decisions": [
+    "The device will be TV and video only; teletext is excluded.",
+    "The design will prioritize a user-friendly, fashionable flip-top form factor.",
+    "The team will explore rechargeable battery solutions with a docking station.",
+    "Marketing will investigate the feasibility of an alarm/beeping feature for lost remotes.",
+    "The team will consider offering multiple exterior designs (e.g., shell shapes) while keeping internal engineering consistent."
+   ],
+   "action_items": [
+    {
+     "text": "Review and finalize instruction manual design to ensure it is user-friendly and concise.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 3825
+    },
+    {
+     "text": "Investigate market trends for alarm/beeping features to help locate lost remotes.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 3740
+    },
+    {
+     "text": "Research rechargeable battery options and docking station feasibility.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 3206
+    },
+    {
+     "text": "Develop initial concepts for 5-6 distinct exterior designs incorporating corporate branding.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 3559
+    }
+   ]
+  },
+  "ask": "{\n\"answer\": \"The group decided to design a universal control with a flip-open design, incorporating a corporate image and using rechargeable batteries with a docking station to reduce cost and RSI risks [1:32, 2:17, 3:33, 32:06, 32:13]. Speaker_0 disagreed with the idea of using speech recognition due to high costs and questioned if a touch screen would sufficiently solve repetitive strain injury issues [19:16, 24:37, 24:51].\"\n}",
+  "human": {
+   "abstract": [
+    "The Industrial Designer gave his presentation on the basic functions of the remote.",
+    "He presented the basic components that remotes share and suggested that smaller batteries be considered in the product design.",
+    "The User Interface Designer presented his ideas for making the remote easy-to-use; he discussed using a simple design and hiding complicated features from the main interface.",
+    "The Marketing Expert presented the findings from a lab study on user requirements for a remote control device, and discussed users' demand for a simple interface and advanced technology.",
+    "The Project Manager presented the new requirements that the remote not include a teletext function, that it be used only to control television, and that it include the company image in its design.",
+    "The group narrowed down their target marketing group to the youth market.",
+    "They discussed the functions the remote will have, including Video Plus capability and rechargeable batteries.",
+    "A customer service plan was suggested to make the remote seem more user-friendly, but it was decided that helpful manuals were more within the budget.",
+    "The group then discussed the shell-like shape of the remote and including several different casing options to buyers."
+   ],
+   "actions": [
+    "The Marketing Expert will research consumers' opinions on instruction manuals."
+   ],
+   "decisions": [
+    "It was decided that the group will produce one product design instead of creating alternate designs in an attempt to accomodate different users' preferences.",
+    "The marketing will be focused towards a young, business-class buyer.",
+    "The remote will feature Video Plus capabilities and a seashell-like shape to accomodate the LCD display and the flip screen.",
+    "The remote will be bundled with a docking station to recharge the remote's batteries and a user-friendly instruction manual, and multiple casings will be made available."
+   ],
+   "problems": [
+    "The limitations of the budget will restrict the development of some features; several of the features that the group wanted to include may have to be made simpler to decrease cost."
+   ]
+  }
+ },
+ "ES2004c": {
+  "prompt_tokens": 10913,
+  "summary_sec": 22.2,
+  "ask_sec": 9.5,
+  "valid_json": true,
+  "summary": {
+   "title": "Conceptual Design Meeting: Remote Control Project",
+   "overview": "The team reviewed market research and competitor analysis to finalize the conceptual design for a new remote control targeting young business professionals. Key discussions focused on material selection, battery technology, user interface layout, and aesthetic trends.",
+   "key_points": [
+    "Market research indicates a strong preference for a 'fancy look and feel' over standard functionality, with a trend towards fruit and vegetable-inspired colors.",
+    "The team decided to adopt kinetic charging (watch-style battery) to avoid bulky standard batteries and impractical solar/wind options.",
+    "The design will feature a flip-top mechanism with an LCD touch interface on the top half and rubberized anti-RSI buttons on the bottom half.",
+    "Standard volume and channel controls will be retained on the rubber buttons, while the LCD screen will handle other functions.",
+    "Voice recognition and a 'find my remote' feature are proposed as potential future additions pending cost feasibility.",
+    "The final case material will be plastic with a detachable, color-changeable rubberized cover to allow for fashion updates."
+   ],
+   "decisions": [
+    "Selected kinetic charging with a watch-type battery.",
+    "Chosen plastic body with a detachable rubberized cover.",
+    "Decided on fruit and vegetable color palette for the rubber cover.",
+    "Confirmed LCD touch interface on the top flip section.",
+    "Confirmed rubberized buttons on the bottom flip section.",
+    "Agreed to keep standard volume/channel buttons but move other controls to the LCD.",
+    "Postponed final decision on voice recognition until cost feasibility is confirmed."
+   ],
+   "action_items": [
+    {
+     "text": "Research financial feasibility of incorporating voice recognition and 'find my remote' features.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 3624
+    },
+    {
+     "text": "Research feasibility of attaching the remote to clothing or using a clip-on mechanism.",
+     "owner": "speaker_1",
+     "timestamp_seconds": 1333
+    }
+   ]
+  },
+  "ask": "{\n\"answer\": \"The group decided on kinetic charging with watch-type batteries, an LCD display on the top of the flip-top, rubberized buttons on the bottom, plastic casing with a detachable rubber cover in fruit/vegetable colors, and voice recognition for locating the remote. Speaker_2 disagreed with the initial idea of dynamo (wind-up) charging at [8:20] and solar charging at [9:17], arguing they were impractical or bulky. Speaker_1 disagreed with the idea of a built-in mirror on the flip-top at [23:33], suggesting it was unnecessary for a remote control.\"\n}",
+  "human": {
+   "abstract": [
+    "The Project Manager reviewed the decisions from the previous meeting.",
+    "The Marketing Expert made a presentation on trend watching, including trends in user requirements and trends in fashion.",
+    "The Industrial Designer presented all the components of the device and announced that several of the features already discussed would not be available.",
+    "He suggested substituting a kinetic battery for the rechargeable batteries and using a combination of rubber and plastic for the materials.",
+    "The User Interface Designer presented his main interface design, which included buttons for the most frequently used features and a graphic user interface on the LCD screen for other functions, to keep frequently used features easy to use.",
+    "He announced that speech recognition was still an option to consider, depending on price.",
+    "The Project Manager then began a discussion to decide what was going into the final design.",
+    "It was decided that a kinetic battery would be used in place of a rechargeable battery, that the remote will feature an LCD screen and rubber casing and rubber buttons, and that interchangeable rubber covers in fruit colors will be available.",
+    "Speech recognition may be included if it is not too costly."
+   ],
+   "actions": [],
+   "decisions": [
+    "It was decided that the remote would feature an LCD screen, rubber buttons, colorful rubber changeable skins, a kinetic battery, and possibly speech recognition if it is still within the budget to include it."
+   ],
+   "problems": [
+    "Several of the features that the group had wanted to integrate into the design were either too costly or unavailable due to new limitations from the factory.",
+    "The group had to change many of the original design elements to an alternative."
+   ]
+  }
+ },
+ "IS1009a": {
+  "prompt_tokens": 3985,
+  "summary_sec": 18.5,
+  "ask_sec": 5.2,
+  "valid_json": true,
+  "summary": {
+   "title": "New Remote Control Design Kickoff",
+   "overview": "The team introduced themselves and reviewed the project requirements for designing a new, multifunctional remote control. They discussed specific constraints regarding cost, profit margins, and international market reach while brainstorming features to improve usability and prevent loss.",
+   "key_points": [
+    "The project aims to design an original, trendy, and user-friendly remote control.",
+    "The selling price is set at 25 Euro with a target profit of 50 million Euro.",
+    "Production costs must not exceed 12.50 Euro per unit.",
+    "The device should be multifunctional, capable of controlling various household appliances.",
+    "Key proposed features include a compact size, a friendly shape, and a signal/light indicator to help locate the remote when lost.",
+    "The team agreed that voice or clap activation is not specific enough for the tracking feature."
+   ],
+   "decisions": [
+    "The next meeting will focus on working designs, functional designs, and user requirement specifications.",
+    "The next meeting is scheduled to start in 30 minutes.",
+    "Speaker_2 (Januvi) is responsible for the working design and technical functional design.",
+    "Speaker_1 (Eileen) is responsible for the user requirement specification, focusing on friendliness and marketability."
+   ],
+   "action_items": [
+    {
+     "text": "Prepare working design and technical functional design specifications.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 1190
+    },
+    {
+     "text": "Develop user requirement specification including friendliness and justification for the 25 Euro price point.",
+     "owner": "speaker_1",
+     "timestamp_seconds": 1225
+    },
+    {
+     "text": "Review instructions and prepare for the next design session.",
+     "owner": "speaker_0",
+     "timestamp_seconds": 1307
+    }
+   ]
+  },
+  "ask": "{\"answer\": \"The group decided to redesign the remote control to be multifunctional, compact, and trendy, with features like a light/beep signal for when it is lost. No one explicitly disagreed with these core decisions; speaker_1 noted the price target was challenging at [6:35], and speaker_0 suggested voice/clap sensors might not be specific enough at [10:53], but these were clarifications rather than disagreements.\"}",
+  "human": {
+   "abstract": [
+    "The meeting opens with the group doing introductions by giving their name and role.",
+    "Betty is the project manager, Francina is the user interface specialist, Eileen is the marketing expert, and Jeanne is the industrial designer.",
+    "The project manager tells them they will be designing a new remote control that should be original, trendy, and user-friendly.",
+    "They will be concerned with functional, conceptional, and detailed design.",
+    "To try out the whiteboard, each group member draws her favorite animal on the board.",
+    "They discuss the project budget and then talk about their experiences with remote controls.",
+    "They seemed to agree that the remote should be compact and have a multi-purpose functions.",
+    "They also agree that it should do something different that current controls cannot do and that it should be made of different colors, materials, and shapes.",
+    "They also discuss a way of helping people find the remote when it is lost- a signal, whether it is a beep or light.",
+    "Then they close the meeting with the project manager going over the tasks they are to complete and telling them they will meet again in about thirty minutes."
+   ],
+   "actions": [
+    "The industrial designer will work on the working design and technical function.",
+    "The interface specialist will do the working design and functional design.",
+    "The marketing manager will look for user requirement specifications such as friendliness"
+   ],
+   "decisions": [
+    "Selling price will be twenty five Euro.",
+    "Company aims to profit fifty million Euro.",
+    "It should be compact, multi-functional, different in shape/color/material.",
+    "Have a locator to help find the remote when it is lost."
+   ],
+   "problems": [
+    "The group if not sure if they will have the budget to make the gadget multi-functional, but they would like to make one that would control basically all household machines."
+   ]
+  }
+ },
+ "TS3003a": {
+  "prompt_tokens": 4736,
+  "summary_sec": 19.8,
+  "ask_sec": 3.6,
+  "valid_json": true,
+  "summary": {
+   "title": "Real Reaction Remote Control Project Kickoff",
+   "overview": "Martin Bart Bloet led a kickoff meeting for Real Reaction, an electronics company aiming to develop a new trendy and user-friendly remote control. The session covered the project's three-phase methodology, introduced the collaborative design team, and provided training on the high-tech whiteboard tools used for virtual meetings. Participants discussed financial targets, production constraints, and brainstormed potential features like universal device control and shockproofing.",
+   "key_points": [
+    "The project aims to create a new remote control with a selling price of 25 Euros and a profit target of 50 million Euros.",
+    "Production costs must remain under 12.5 Euros, ruling out complex internal components like small televisions.",
+    "The project follows three phases: functional design, conceptual design, and detailed design.",
+    "The team includes a marketing expert, industrial designer, and user interface designer with specific responsibilities for each phase.",
+    "Participants were trained on using the smart board tools, including drawing, color selection, and document management.",
+    "Discussion highlighted the potential for a universal remote controlling multiple devices via infrared and the need for shockproof durability."
+   ],
+   "decisions": [
+    "The meeting agenda included tool training, project plan discussion, and closing.",
+    "Minutes from the meeting will be uploaded to the project documents folder by the speaker.",
+    "The team will proceed to work on their individual project tasks after the meeting concludes."
+   ],
+   "action_items": [
+    {
+     "text": "Upload meeting minutes to the project documents folder.",
+     "owner": "speaker_0",
+     "timestamp_seconds": 2402
+    },
+    {
+     "text": "Investigate feasibility of infrared technology and battery status display regarding production costs.",
+     "owner": "speaker_0",
+     "timestamp_seconds": 2342
+    },
+    {
+     "text": "Review and finalize individual project tasks based on the kickoff discussion.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 2428
+    }
+   ]
+  },
+  "ask": "{\"answer\": \"The group discussed features like infrared control and battery status displays, but no final decision was made; speaker_2 noted that adding a battery status display would increase production costs [23:34].\"}",
+  "human": {
+   "abstract": [
+    "The project manager introduced himself to the team and then acquainted the team with the audio and video equipment in the meeting room.",
+    "The project manager briefly described the company the team works for and discussed the corporate website.",
+    "The project manager then described the upcoming project and the roles of each team member.",
+    "The project manager introduced the smart boards to the team and led the team members in an exercise in which they each drew their favorite animal and described why they liked the animal.",
+    "The project manager briefed the team on the project budget and selling prices for the remote they are to create and led them in a discussion on their experiences with remote controls and what features they would like to include in their product."
+   ],
+   "actions": [
+    "The team members will work on their individual projects"
+   ],
+   "decisions": [
+    "The selling price will be 25 Euro.",
+    "The focus will be on an international market.",
+    "The production cost cannot exceed 12.50 Euro.",
+    "The remote will be able to control multiple devices.",
+    "The remote will be shockproof.",
+    "The remote will be waterproof."
+   ],
+   "problems": [
+    "Cost of a battery status display."
+   ]
+  }
+ },
+ "TS3003b": {
+  "prompt_tokens": 8324,
+  "summary_sec": 23.5,
+  "ask_sec": 6.7,
+  "valid_json": true,
+  "summary": {
+   "title": "Functional Design & Target Market Strategy",
+   "overview": "The team reviewed market research indicating that younger users prefer fancy designs while older users prioritize functionality and simplicity. A strategic pivot was decided to target the 60+ demographic with a robust, easy-to-use remote control featuring a docking station and an informational LCD screen. The project scope was narrowed to TV-only functionality, excluding teletext and multi-device support to meet time-to-market constraints.",
+   "key_points": [
+    "Market research shows 75% of users find remotes ugly and 50% lose them frequently.",
+    "Initial target of 16-45 year olds was shifted to 60+ due to market size and the need for simple, functional devices.",
+    "Teletext and multi-device (DVD/Stereo) functions were removed to simplify the product and reduce development time.",
+    "A docking station with a location-finding audio signal and battery charging was approved.",
+    "A small LCD screen was added to explain button functions to assist elderly users.",
+    "Design focus shifted from high-tech materials to durable, simple plastics for robustness."
+   ],
+   "decisions": [
+    "Target audience defined as people aged 60 and above.",
+    "Product scope limited to TV-only operation.",
+    "Teletext function retained only for accessibility/subtitles.",
+    "Touchscreen rejected in favor of a small informational LCD display.",
+    "Docking station with audio signal and charging capability approved.",
+    "Material selection finalized as simple, durable plastics."
+   ],
+   "action_items": [
+    {
+     "text": "Define specific component concepts for the remote design.",
+     "owner": "speaker_2",
+     "timestamp_seconds": 3514
+    },
+    {
+     "text": "Develop the user interface concept and conduct trend watching.",
+     "owner": "speaker_3",
+     "timestamp_seconds": 3514
+    },
+    {
+     "text": "Research specific market data for the 60+ demographic.",
+     "owner": "speaker_0",
+     "timestamp_seconds": 3408
+    },
+    {
+     "text": "Upload meeting minutes to the project document folder.",
+     "owner": "speaker_1",
+     "timestamp_seconds": 3506
+    }
+   ]
+  },
+  "ask": "{\n\"answer\": \"The group decided to target the elderly market (60+), include teletext, add a docking station with an audio signal, and include a small LCD screen for button explanations. Speaker_0 disagreed with the initial plan to target the 40+ market and remove teletext, arguing that the 40+ demographic is too small and that teletext is still important for that group.\"\n}",
+  "human": {
+   "abstract": [
+    "The project manager stated the agenda and the marketing expert discussed what functions are most relevant on a remote, what the target demographic is, and what his vision for the appearance of the remote is.",
+    "The marketing expert also brought up the idea to include a docking station to prevent the remote from getting lost and the idea to include an LCD screen.",
+    "The user interface designer pushed for a user-friendly interface with large buttons, a display function, a touchscreen, and the capability of controlling different devices.",
+    "The industrial designer discussed the interior workings of a remote and the project manager briefed the team on some new requirements they are to abide by.",
+    "The team then discussed teletext, the target demographic, the buttons the remote should have, the idea of marketing a remote designed for the elderly, an audio signal which can sound if the remote is lost, LCD screens, and language options."
+   ],
+   "actions": [
+    "The industrial designer will work on the components concept.",
+    "The user interface designer will work on the user interface concept and trend-watching"
+   ],
+   "decisions": [
+    "The remote will only be used for televisions.",
+    "The user target group consists of adults age sixty to eighty.",
+    "The corporate image must be visible in the design of the remote.",
+    "The team will implement teletext in their design if it does not cost too much.",
+    "The remote will only have a few buttons.",
+    "The remote will have a docking station.",
+    "The remote will have an audio signal to allow users to locate it when misplaced-the team will focus on creating a remote for elderly people.",
+    "The remote will feature a small LCD screen.",
+    "The remote will be fancy.",
+    "The remote will be easy to learn.",
+    "The remote will be made to accommodate different languages."
+   ],
+   "problems": [
+    "Cost of a touchscreen.",
+    "Whether to include teletext in the design despite the new requirement which indicates that the team is not to work with teletext.",
+    "The user target group of adults age forty and up is quite small.",
+    "What buttons and functions to include on the remote.",
+    "Whether to include a scroll button.",
+    "Whether to focus more on the layout of the buttons or the docking station.",
+    "Whether the user target group should be people age 60 to 80."
+   ]
+  }
+ }
+}

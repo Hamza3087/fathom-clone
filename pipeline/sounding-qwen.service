@@ -1,0 +1,7 @@
+[Unit]
+Description=Sounding: Qwen summaries (vLLM, 127.0.0.1:8011)
+[Service]
+WorkingDirectory=/root/sounding
+ExecStart=/root/sounding/scripts/qwen_server.sh
+Restart=on-failure
+RestartSec=10
